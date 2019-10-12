@@ -1,0 +1,38 @@
+#pretending we're C because otherwise ruby/rvm will initialize, even with "language: dm".
+language: c
+sudo: false
+
+env:
+    global:
+    - BYOND_MAJOR="512"
+    - BYOND_MINOR="1464"
+    matrix:
+    - DM_MAPFILE="tgstation"
+    - DM_MAPFILE="mini2"
+
+cache:
+  directories:
+    - $HOME/BYOND-${BYOND_MAJOR}.${BYOND_MINOR}
+    - $HOME/.cache/pip
+
+addons:
+  apt:
+    packages:
+      - libc6-i386
+      - libgcc1:i386
+      - libstdc++6:i386
+
+install:
+  - pip install --user PyYaml -q
+  - pip install --user beautifulsoup4 -q
+
+before_script:
+  - chmod +x tools/travis/dm.sh
+  - chmod +x tools/travis/install-byond.sh
+  - ./tools/travis/install-byond.sh
+
+script:
+  - python tools/ss13_genchangelog.py html/changelog.html html/changelogs --dry-run
+  - source $HOME/BYOND-${BYOND_MAJOR}.${BYOND_MINOR}/byond/bin/byondsetup
+  - ./tools/travis/dm.sh -M${DM_MAPFILE} lanstation13.dme
+  
