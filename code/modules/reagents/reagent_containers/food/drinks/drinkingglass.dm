@@ -123,6 +123,11 @@
 					item_state = "ginvodkaglass"
 					name = "glass of pinga"
 					desc = "The glass contain pinga."
+				if(CAIPIRINHA)
+					icon_state = "caipirinha"
+					item_state = "caipirinha"
+					name = "glass of caipirinha"
+					desc = "The glass contain caipirinha."
 				if(SAKE)
 					icon_state = "ginvodkaglass"
 					name = "glass of sake"

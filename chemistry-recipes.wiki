@@ -1,0 +1,2038 @@
+
+{| class="wikitable"
+|-
+! Name
+! Reactants
+! Result
+|-
+! Water Potassium Explosion
+|<ul><li>{{reagent|1|water}}</li><li>{{reagent|1|potassium}}</li></ul>
+|''(Check /datum/chemical_reaction/explosion_potassium/on_reaction()!)''
+|-
+! Creatine
+|<ul><li>{{reagent|1|nutriment}}</li><li>{{reagent|1|bicaridine}}</li><li>{{reagent|1|sugar}}</li><li>{{reagent|1|mutagen}}</li></ul>
+|{{reagent|2|creatine}}
+|-
+! Discount Dan's Special Sauce
+|<ul><li>{{reagent|1|irradiatedbeans}}</li><li>{{reagent|1|toxicwaste}}</li><li>{{reagent|1|refriedbeans}}</li><li>{{reagent|1|mutatedbeans}}</li><li>{{reagent|1|beff}}</li><li>{{reagent|1|horsemeat}}</li><li>{{reagent|1|moonrocks}}</li><li>{{reagent|1|offcolorcheese}}</li><li>{{reagent|1|bonemarrow}}</li><li>{{reagent|1|greenramen}}</li><li>{{reagent|1|glowingramen}}</li><li>{{reagent|1|deepfriedramen}}</li></ul>
+|{{reagent|12|discount}}
+|-
+! Peptobismol
+|<ul><li>{{reagent|1|anti_toxin}}</li><li>{{reagent|1|discount}}</li></ul>
+|{{reagent|2|peptobismol}}
+|-
+! EMP Pulse
+|<ul><li>{{reagent|1|uranium}}</li><li>{{reagent|1|iron}}</li></ul>
+|''(Check /datum/chemical_reaction/emp_pulse/on_reaction()!)''
+|-
+! Silicate
+|<ul><li>{{reagent|1|aluminum}}</li><li>{{reagent|1|silicon}}</li><li>{{reagent|1|oxygen}}</li></ul>
+|{{reagent|9|silicate}}
+|-
+! Phalanximine
+|<ul><li>{{reagent|1|hyronalin}}</li><li>{{reagent|1|ethanol}}</li><li>{{reagent|1|mutagen}}</li></ul>
+|{{reagent|3|phalanximine}}
+|-
+! Sleep Toxin
+|<ul><li>{{reagent|1|chloralhydrate}}</li><li>{{reagent|4|sugar}}</li></ul>
+|{{reagent|5|stoxin}}
+|-
+! Sterilizine
+|<ul><li>{{reagent|1|ethanol}}</li><li>{{reagent|1|anti_toxin}}</li><li>{{reagent|1|chlorine}}</li></ul>
+|{{reagent|3|sterilizine}}
+|-
+! Inaprovaline
+|<ul><li>{{reagent|1|oxygen}}</li><li>{{reagent|1|carbon}}</li><li>{{reagent|1|sugar}}</li></ul>
+|{{reagent|3|inaprovaline}}
+|-
+! Anti-Toxin (Dylovene)
+|<ul><li>{{reagent|1|silicon}}</li><li>{{reagent|1|potassium}}</li><li>{{reagent|1|nitrogen}}</li></ul>
+|{{reagent|3|anti_toxin}}
+|-
+! Unstable mutagen
+|<ul><li>{{reagent|1|radium}}</li><li>{{reagent|1|phosphorus}}</li><li>{{reagent|1|chlorine}}</li></ul>
+|{{reagent|3|mutagen}}
+|-
+! Tramadol
+|<ul><li>{{reagent|1|inaprovaline}}</li><li>{{reagent|1|ethanol}}</li><li>{{reagent|1|oxygen}}</li></ul>
+|{{reagent|3|tramadol}}
+|-
+! Oxycodone
+|<ul><li>{{reagent|1|ethanol}}</li><li>{{reagent|1|tramadol}}</li><li>{{reagent|1|plasma}}</li></ul>
+|{{reagent|3|oxycodone}}
+|-
+! Water
+|<ul><li>{{reagent|2|hydrogen}}</li><li>{{reagent|1|oxygen}}</li></ul>
+|{{reagent|1|water}}
+|-
+! Sulphuric Acid
+|<ul><li>{{reagent|2|sulfur}}</li><li>{{reagent|3|oxygen}}</li><li>{{reagent|2|water}}</li></ul>
+|{{reagent|2|sacid}}
+|-
+! Thermite
+|<ul><li>{{reagent|1|aluminum}}</li><li>{{reagent|1|iron}}</li><li>{{reagent|1|oxygen}}</li></ul>
+|{{reagent|3|thermite}}
+|-
+! Lexorin
+|<ul><li>{{reagent|1|plasma}}</li><li>{{reagent|1|hydrogen}}</li><li>{{reagent|1|nitrogen}}</li></ul>
+|{{reagent|3|lexorin}}
+|-
+! Space Drugs
+|<ul><li>{{reagent|1|mercury}}</li><li>{{reagent|1|sugar}}</li><li>{{reagent|1|lithium}}</li></ul>
+|{{reagent|3|space_drugs}}
+|-
+! Space Lube
+|<ul><li>{{reagent|1|water}}</li><li>{{reagent|1|silicon}}</li><li>{{reagent|1|oxygen}}</li></ul>
+|{{reagent|4|lube}}
+|-
+! Polytrinic acid
+|<ul><li>{{reagent|1|sacid}}</li><li>{{reagent|1|chlorine}}</li><li>{{reagent|1|potassium}}</li></ul>
+|{{reagent|3|pacid}}
+|-
+! Synaptizine
+|<ul><li>{{reagent|1|sugar}}</li><li>{{reagent|1|lithium}}</li><li>{{reagent|1|water}}</li></ul>
+|{{reagent|3|synaptizine}}
+|-
+! Hyronalin
+|<ul><li>{{reagent|1|radium}}</li><li>{{reagent|1|anti_toxin}}</li></ul>
+|{{reagent|2|hyronalin}}
+|-
+! Arithrazine
+|<ul><li>{{reagent|1|hyronalin}}</li><li>{{reagent|1|hydrogen}}</li></ul>
+|{{reagent|2|arithrazine}}
+|-
+! Impedrezene
+|<ul><li>{{reagent|1|mercury}}</li><li>{{reagent|1|oxygen}}</li><li>{{reagent|1|sugar}}</li></ul>
+|{{reagent|2|impedrezene}}
+|-
+! Kelotane
+|<ul><li>{{reagent|1|silicon}}</li><li>{{reagent|1|carbon}}</li></ul>
+|{{reagent|2|kelotane}}
+|-
+! Virus Food
+|<ul><li>{{reagent|5|water}}</li><li>{{reagent|5|milk}}</li></ul>
+|{{reagent|15|virusfood}}
+|-
+! Leporazine
+|<ul><li>{{reagent|1|silicon}}</li><li>{{reagent|1|copper}}</li><li>{{reagent|5|plasma}}</li></ul>
+|{{reagent|2|leporazine}}
+|-
+! Cryptobiolin
+|<ul><li>{{reagent|1|potassium}}</li><li>{{reagent|1|oxygen}}</li><li>{{reagent|1|sugar}}</li></ul>
+|{{reagent|3|cryptobiolin}}
+|-
+! Tricordrazine
+|<ul><li>{{reagent|1|inaprovaline}}</li><li>{{reagent|1|anti_toxin}}</li></ul>
+|{{reagent|2|tricordrazine}}
+|-
+! Alkysine
+|<ul><li>{{reagent|1|chlorine}}</li><li>{{reagent|1|nitrogen}}</li><li>{{reagent|1|anti_toxin}}</li></ul>
+|{{reagent|2|alkysine}}
+|-
+! Dexalin
+|<ul><li>{{reagent|2|oxygen}}</li><li>{{reagent|5|plasma}}</li></ul>
+|{{reagent|1|dexalin}}
+|-
+! Dermaline
+|<ul><li>{{reagent|1|oxygen}}</li><li>{{reagent|1|phosphorus}}</li><li>{{reagent|1|kelotane}}</li></ul>
+|{{reagent|3|dermaline}}
+|-
+! Dexalin Plus
+|<ul><li>{{reagent|1|dexalin}}</li><li>{{reagent|1|carbon}}</li><li>{{reagent|1|iron}}</li></ul>
+|{{reagent|3|dexalinp}}
+|-
+! Bicaridine
+|<ul><li>{{reagent|1|inaprovaline}}</li><li>{{reagent|1|carbon}}</li></ul>
+|{{reagent|2|bicaridine}}
+|-
+! Hyperzine
+|<ul><li>{{reagent|1|sugar}}</li><li>{{reagent|1|phosphorus}}</li><li>{{reagent|1|sulfur}}</li></ul>
+|{{reagent|3|hyperzine}}
+|-
+! Ryetalyn
+|<ul><li>{{reagent|1|arithrazine}}</li><li>{{reagent|1|carbon}}</li></ul>
+|{{reagent|2|ryetalyn}}
+|-
+! Cryoxadone
+|<ul><li>{{reagent|1|dexalin}}</li><li>{{reagent|1|water}}</li><li>{{reagent|1|oxygen}}</li></ul>
+|{{reagent|3|cryoxadone}}
+|-
+! Clonexadone
+|<ul><li>{{reagent|1|cryoxadone}}</li><li>{{reagent|1|sodium}}</li><li>{{reagent|5|plasma}}</li></ul>
+|{{reagent|2|clonexadone}}
+|-
+! Spaceacillin
+|<ul><li>{{reagent|1|cryptobiolin}}</li><li>{{reagent|1|inaprovaline}}</li></ul>
+|{{reagent|2|spaceacillin}}
+|-
+! imidazoline
+|<ul><li>{{reagent|1|carbon}}</li><li>{{reagent|1|hydrogen}}</li><li>{{reagent|1|anti_toxin}}</li></ul>
+|{{reagent|2|imidazoline}}
+|-
+! inacusiate
+|<ul><li>{{reagent|1|water}}</li><li>{{reagent|1|carbon}}</li><li>{{reagent|1|anti_toxin}}</li></ul>
+|{{reagent|3|inacusiate}}
+|-
+! Ethylredoxrazine
+|<ul><li>{{reagent|1|oxygen}}</li><li>{{reagent|1|anti_toxin}}</li><li>{{reagent|1|carbon}}</li></ul>
+|{{reagent|3|ethylredoxrazine}}
+|-
+! ethanoloxidation
+|<ul><li>{{reagent|1|ethylredoxrazine}}</li><li>{{reagent|1|ethanol}}</li></ul>
+|{{reagent|2|water}}
+|-
+! Glycerol
+|<ul><li>{{reagent|3|cornoil}}</li><li>{{reagent|1|sacid}}</li></ul>
+|{{reagent|1|glycerol}}
+|-
+! Nitroglycerin Explosion
+|<ul><li>{{reagent|1|glycerol}}</li><li>{{reagent|1|pacid}}</li><li>{{reagent|1|sacid}}</li></ul>
+|{{reagent|2|nitroglycerin}}
+|-
+! Sodium Chloride
+|<ul><li>{{reagent|1|sodium}}</li><li>{{reagent|1|chlorine}}</li></ul>
+|{{reagent|2|sodiumchloride}}
+|-
+! Flash powder
+|<ul><li>{{reagent|1|aluminum}}</li><li>{{reagent|1|potassium}}</li><li>{{reagent|1|sulfur}}</li></ul>
+|''(Check /datum/chemical_reaction/flash_powder/on_reaction()!)''
+|-
+! Napalm
+|<ul><li>{{reagent|1|aluminum}}</li><li>{{reagent|1|plasma}}</li><li>{{reagent|1|sacid}}</li></ul>
+|''(Check /datum/chemical_reaction/napalm/on_reaction()!)''
+|-
+! Chemsmoke
+|<ul><li>{{reagent|1|potassium}}</li><li>{{reagent|1|sugar}}</li><li>{{reagent|1|phosphorus}}</li></ul>
+|''(Check /datum/chemical_reaction/chemsmoke/on_reaction()!)''
+|-
+! Chloral Hydrate
+|<ul><li>{{reagent|1|ethanol}}</li><li>{{reagent|3|chlorine}}</li><li>{{reagent|1|water}}</li></ul>
+|{{reagent|1|chloralhydrate}}
+|-
+! Zombie Powder
+|<ul><li>{{reagent|5|carpotoxin}}</li><li>{{reagent|5|stoxin}}</li><li>{{reagent|5|copper}}</li></ul>
+|{{reagent|2|zombiepowder}}
+|-
+! Rezadone
+|<ul><li>{{reagent|1|carpotoxin}}</li><li>{{reagent|1|cryptobiolin}}</li><li>{{reagent|1|copper}}</li></ul>
+|{{reagent|3|rezadone}}
+|-
+! Mindbreaker Toxin
+|<ul><li>{{reagent|1|silicon}}</li><li>{{reagent|1|hydrogen}}</li><li>{{reagent|1|anti_toxin}}</li></ul>
+|{{reagent|5|mindbreaker}}
+|-
+! Lipozine
+|<ul><li>{{reagent|1|sodiumchloride}}</li><li>{{reagent|1|ethanol}}</li><li>{{reagent|1|radium}}</li></ul>
+|{{reagent|3|lipozine}}
+|-
+! Carp pheromones
+|<ul><li>{{reagent|1|carpotoxin}}</li><li>{{reagent|1|leporazine}}</li><li>{{reagent|1|carbon}}</li></ul>
+|{{reagent|3|carppheromones}}
+|-
+! Vaporize Oxygen
+|<ul><li>{{reagent|1|vaporsalt}}</li><li>{{reagent|1|oxygen}}</li></ul>
+|''(Check /datum/chemical_reaction/vaporize/oxygen/on_reaction()!)''
+|-
+! Vaporize Nitrogen
+|<ul><li>{{reagent|1|vaporsalt}}</li><li>{{reagent|1|nitrogen}}</li></ul>
+|''(Check /datum/chemical_reaction/vaporize/nitrogen/on_reaction()!)''
+|-
+! Vaporize Plasma
+|<ul><li>{{reagent|1|vaporsalt}}</li><li>{{reagent|1|plasma}}</li></ul>
+|''(Check /datum/chemical_reaction/vaporize/plasma/on_reaction()!)''
+|-
+! Vaporize
+|<ul></ul>
+|''(Check /datum/chemical_reaction/vaporize/on_reaction()!)''
+|-
+! Solid Plasma
+|<ul><li>{{reagent|10|silicate}}</li><li>{{reagent|10|frostoil}}</li><li>{{reagent|20|plasma}}</li></ul>
+|''(Check /datum/chemical_reaction/solidification/plasma/on_reaction()!)''
+|-
+! Solid Metal
+|<ul><li>{{reagent|10|silicate}}</li><li>{{reagent|10|frostoil}}</li><li>{{reagent|20|iron}}</li></ul>
+|''(Check /datum/chemical_reaction/solidification/iron/on_reaction()!)''
+|-
+! Solid Silver
+|<ul><li>{{reagent|10|silicate}}</li><li>{{reagent|10|frostoil}}</li><li>{{reagent|20|silver}}</li></ul>
+|''(Check /datum/chemical_reaction/solidification/silver/on_reaction()!)''
+|-
+! Solid Gold
+|<ul><li>{{reagent|10|silicate}}</li><li>{{reagent|10|frostoil}}</li><li>{{reagent|20|gold}}</li></ul>
+|''(Check /datum/chemical_reaction/solidification/gold/on_reaction()!)''
+|-
+! Solid Uranium
+|<ul><li>{{reagent|10|silicate}}</li><li>{{reagent|10|frostoil}}</li><li>{{reagent|20|uranium}}</li></ul>
+|''(Check /datum/chemical_reaction/solidification/uranium/on_reaction()!)''
+|-
+! Solid Plasteel
+|<ul><li>{{reagent|10|silicate}}</li><li>{{reagent|5|frostoil}}</li><li>{{reagent|5|capsaicin}}</li><li>{{reagent|10|plasma}}</li><li>{{reagent|10|iron}}</li></ul>
+|''(Check /datum/chemical_reaction/solidification/plasteel/on_reaction()!)''
+|-
+! Plastic
+|<ul><li>{{reagent|10|pacid}}</li><li>{{reagent|20|plasticide}}</li></ul>
+|''(Check /datum/chemical_reaction/solidification/plastic/on_reaction()!)''
+|-
+! Metal solidification
+|<ul><li>{{reagent|10|silicate}}</li><li>{{reagent|10|frostoil}}</li><li>{{reagent|20|iron}}</li></ul>
+|''(Check /datum/chemical_reaction/solidification/on_reaction()!)''
+|-
+! Condensed Capsaicin
+|<ul><li>{{reagent|1|capsaicin}}</li><li>{{reagent|5|ethanol}}</li></ul>
+|{{reagent|5|condensedcapsaicin}}
+|-
+! Methylin
+|<ul><li>{{reagent|1|hydrogen}}</li><li>{{reagent|1|chlorine}}</li><li>{{reagent|1|ethanol}}</li><li>{{reagent|5|fluorine}}</li></ul>
+|{{reagent|1|methylin}}
+|-
+! Explosion
+|<ul><li>{{reagent|1|bicarodyne}}</li><li>{{reagent|1|paracetamol}}</li></ul>
+|''(Check /datum/chemical_reaction/explosion_bicarodyne/on_reaction()!)''
+|-
+! Nanobots
+|<ul><li>{{reagent|1|nanites}}</li><li>{{reagent|10|uranium}}</li><li>{{reagent|10|gold}}</li><li>{{reagent|10|nutriment}}</li><li>{{reagent|10|silicon}}</li></ul>
+|{{reagent|2|nanobots}}
+|-
+! Nanobots2
+|<ul><li>{{reagent|1|mednanobots}}</li><li>{{reagent|2|cryoxadone}}</li></ul>
+|{{reagent|1|nanobots}}
+|-
+! Medical Nanobots
+|<ul><li>{{reagent|1|nanobots}}</li><li>{{reagent|5|doctorsdelight}}</li></ul>
+|{{reagent|1|mednanobots}}
+|-
+! Combat Nanobots
+|<ul><li>{{reagent|1|nanobots}}</li><li>{{reagent|5|mutagen}}</li><li>{{reagent|5|silicate}}</li><li>{{reagent|10|iron}}</li></ul>
+|{{reagent|1|comnanobots}}
+|-
+! Foam surfactant
+|<ul><li>{{reagent|2|fluorine}}</li><li>{{reagent|2|carbon}}</li><li>{{reagent|1|sacid}}</li></ul>
+|{{reagent|5|fluorosurfactant}}
+|-
+! Foam
+|<ul><li>{{reagent|1|fluorosurfactant}}</li><li>{{reagent|1|water}}</li></ul>
+|''(Check /datum/chemical_reaction/foam/on_reaction()!)''
+|-
+! Metal Foam
+|<ul><li>{{reagent|3|aluminum}}</li><li>{{reagent|1|foaming_agent}}</li><li>{{reagent|1|pacid}}</li></ul>
+|''(Check /datum/chemical_reaction/metalfoam/on_reaction()!)''
+|-
+! Iron Foam
+|<ul><li>{{reagent|3|iron}}</li><li>{{reagent|1|foaming_agent}}</li><li>{{reagent|1|pacid}}</li></ul>
+|''(Check /datum/chemical_reaction/ironfoam/on_reaction()!)''
+|-
+! Foaming Agent
+|<ul><li>{{reagent|1|lithium}}</li><li>{{reagent|1|hydrogen}}</li></ul>
+|{{reagent|1|foaming_agent}}
+|-
+! Ammonia
+|<ul><li>{{reagent|3|hydrogen}}</li><li>{{reagent|1|nitrogen}}</li></ul>
+|{{reagent|3|ammonia}}
+|-
+! Diethylamine
+|<ul><li>{{reagent|1|ammonia}}</li><li>{{reagent|1|ethanol}}</li></ul>
+|{{reagent|2|diethylamine}}
+|-
+! Space cleaner
+|<ul><li>{{reagent|1|ammonia}}</li><li>{{reagent|1|water}}</li></ul>
+|{{reagent|2|cleaner}}
+|-
+! Plant-B-Gone
+|<ul><li>{{reagent|1|toxin}}</li><li>{{reagent|4|water}}</li></ul>
+|{{reagent|5|plantbgone}}
+|-
+! Shapeshift
+|<ul><li>{{reagent|5|blood}}</li></ul>
+|''(Check /datum/chemical_reaction/mimicshift/on_reaction()!)''
+|-
+! Slime Spawn
+|<ul><li>{{reagent|5|plasma}}</li></ul>
+|''(Check /datum/chemical_reaction/slimespawn/on_reaction()!)''
+|-
+! Slime Monkey
+|<ul><li>{{reagent|5|blood}}</li></ul>
+|''(Check /datum/chemical_reaction/slimemonkey/on_reaction()!)''
+|-
+! Mutation Toxin
+|<ul><li>{{reagent|5|plasma}}</li></ul>
+|{{reagent|1|mutationtoxin}}
+|-
+! Slime Peridaxon
+|<ul><li>{{reagent|5|water}}</li></ul>
+|''(Check /datum/chemical_reaction/slimeperidaxon/on_reaction()!)''
+|-
+! Slime Dexalin Plus
+|<ul><li>{{reagent|5|oxygen}}</li></ul>
+|''(Check /datum/chemical_reaction/slimedexplus/on_reaction()!)''
+|-
+! Slime Doctor's Delight
+|<ul><li>{{reagent|5|sugar}}</li></ul>
+|''(Check /datum/chemical_reaction/slimesdelight/on_reaction()!)''
+|-
+! Slime Bicaridine
+|<ul><li>{{reagent|5|carbon}}</li></ul>
+|''(Check /datum/chemical_reaction/slimebicard/on_reaction()!)''
+|-
+! Slime Dermaline
+|<ul><li>{{reagent|5|phosphorus}}</li></ul>
+|''(Check /datum/chemical_reaction/slimedermaline/on_reaction()!)''
+|-
+! Slime Metal
+|<ul><li>{{reagent|5|plasma}}</li></ul>
+|''(Check /datum/chemical_reaction/slimemetal/on_reaction()!)''
+|-
+! Slime Gold
+|<ul><li>{{reagent|5|copper}}</li></ul>
+|''(Check /datum/chemical_reaction/slimegold/on_reaction()!)''
+|-
+! Slime Silver
+|<ul><li>{{reagent|5|tungsten}}</li></ul>
+|''(Check /datum/chemical_reaction/slimesilver/on_reaction()!)''
+|-
+! Slime Uranium
+|<ul><li>{{reagent|5|radium}}</li></ul>
+|''(Check /datum/chemical_reaction/slimeuranium/on_reaction()!)''
+|-
+! Slime diamond
+|<ul><li>{{reagent|5|carbon}}</li></ul>
+|''(Check /datum/chemical_reaction/slimediamond/on_reaction()!)''
+|-
+! Slime Crit (Summon Monsters)
+|<ul><li>{{reagent|5|plasma}}</li></ul>
+|''(Check /datum/chemical_reaction/slimecrit/on_reaction()!)''
+|-
+! Slime Crit Lesser (Summon Monsters)
+|<ul><li>{{reagent|5|blood}}</li></ul>
+|''(Check /datum/chemical_reaction/slimecritlesser/on_reaction()!)''
+|-
+! Slime Animation
+|<ul><li>{{reagent|5|water}}</li></ul>
+|''(Check /datum/chemical_reaction/slimecritweak/on_reaction()!)''
+|-
+! Slime Bork
+|<ul><li>{{reagent|5|plasma}}</li></ul>
+|''(Check /datum/chemical_reaction/slimebork/on_reaction()!)''
+|-
+! Slime Drinks
+|<ul><li>{{reagent|5|water}}</li></ul>
+|''(Check /datum/chemical_reaction/slimedrinks/on_reaction()!)''
+|-
+! Slime Materials
+|<ul><li>{{reagent|5|carbon}}</li></ul>
+|''(Check /datum/chemical_reaction/slimematerials/on_reaction()!)''
+|-
+! Slime Frost Oil
+|<ul><li>{{reagent|5|plasma}}</li></ul>
+|{{reagent|10|frostoil}}
+|-
+! Slime Freeze
+|<ul><li>{{reagent|5|plasma}}</li></ul>
+|''(Check /datum/chemical_reaction/slimefreeze/on_reaction()!)''
+|-
+! Slime Nutrient
+|<ul><li>{{reagent|5|blood}}</li></ul>
+|''(Check /datum/chemical_reaction/slimenutrient/on_reaction()!)''
+|-
+! Slime Capsaicin Oil
+|<ul><li>{{reagent|5|blood}}</li></ul>
+|{{reagent|10|capsaicin}}
+|-
+! Slime Napalm
+|<ul><li>{{reagent|5|plasma}}</li></ul>
+|''(Check /datum/chemical_reaction/slimefire/on_reaction()!)''
+|-
+! Slime EMP
+|<ul><li>{{reagent|5|blood}}</li></ul>
+|''(Check /datum/chemical_reaction/slimeoverload/on_reaction()!)''
+|-
+! Slime Powercell
+|<ul><li>{{reagent|5|plasma}}</li></ul>
+|''(Check /datum/chemical_reaction/slimecell/on_reaction()!)''
+|-
+! Slime Glow
+|<ul><li>{{reagent|5|water}}</li></ul>
+|''(Check /datum/chemical_reaction/slimeglow/on_reaction()!)''
+|-
+! Slime Steroid
+|<ul><li>{{reagent|5|plasma}}</li></ul>
+|''(Check /datum/chemical_reaction/slimepsteroid/on_reaction()!)''
+|-
+! Slime Jam
+|<ul><li>{{reagent|5|sugar}}</li></ul>
+|{{reagent|10|slimejelly}}
+|-
+! Slime Plasma
+|<ul><li>{{reagent|5|plasma}}</li></ul>
+|''(Check /datum/chemical_reaction/slimeplasma/on_reaction()!)''
+|-
+! Slime Glycerol
+|<ul><li>{{reagent|5|plasma}}</li></ul>
+|{{reagent|8|glycerol}}
+|-
+! Slime Res
+|<ul><li>{{reagent|5|sugar}}</li></ul>
+|''(Check /datum/chemical_reaction/slimeres/on_reaction()!)''
+|-
+! Bloodlust
+|<ul><li>{{reagent|5|blood}}</li></ul>
+|''(Check /datum/chemical_reaction/slimebloodlust/on_reaction()!)''
+|-
+! Slime Potion
+|<ul><li>{{reagent|5|plasma}}</li></ul>
+|''(Check /datum/chemical_reaction/slimeppotion/on_reaction()!)''
+|-
+! Advanced Mutation Toxin
+|<ul><li>{{reagent|5|plasma}}</li></ul>
+|{{reagent|1|amutationtoxin}}
+|-
+! Slime Medical Nanobots
+|<ul><li>{{reagent|5|gold}}</li></ul>
+|{{reagent|1|mednanobots}}
+|-
+! Slime Combat Nanobots
+|<ul><li>{{reagent|5|uranium}}</li></ul>
+|{{reagent|1|comnanobots}}
+|-
+! Slime Explosion
+|<ul><li>{{reagent|5|plasma}}</li></ul>
+|''(Check /datum/chemical_reaction/slimeexplosion/on_reaction()!)''
+|-
+! Slime Genocide
+|<ul><li>{{reagent|5|blood}}</li></ul>
+|''(Check /datum/chemical_reaction/slimegenocide/on_reaction()!)''
+|-
+! Slime Potion 2
+|<ul><li>{{reagent|5|plasma}}</li></ul>
+|''(Check /datum/chemical_reaction/slimepotion2/on_reaction()!)''
+|-
+! Slime Paralyzer
+|<ul><li>{{reagent|5|blood}}</li></ul>
+|''(Check /datum/chemical_reaction/slimeparalyze/on_reaction()!)''
+|-
+! Slime Golem
+|<ul><li>{{reagent|5|plasma}}</li></ul>
+|''(Check /datum/chemical_reaction/slimegolem/on_reaction()!)''
+|-
+! Slime Diamond2
+|<ul><li>{{reagent|5|carbon}}</li></ul>
+|''(Check /datum/chemical_reaction/slimediamond2/on_reaction()!)''
+|-
+! Slime Phazon
+|<ul><li>{{reagent|5|gold}}</li></ul>
+|''(Check /datum/chemical_reaction/slimephazon/on_reaction()!)''
+|-
+! Slime Clown
+|<ul><li>{{reagent|5|silver}}</li></ul>
+|''(Check /datum/chemical_reaction/slimeclown/on_reaction()!)''
+|-
+! Slime Teleport
+|<ul><li>{{reagent|5|plasma}}</li></ul>
+|''(Check /datum/chemical_reaction/slimeteleport/on_reaction()!)''
+|-
+! Slime Crystal
+|<ul><li>{{reagent|5|blood}}</li></ul>
+|''(Check /datum/chemical_reaction/slimecrystal/on_reaction()!)''
+|-
+! Slime Steroid 2
+|<ul><li>{{reagent|5|plasma}}</li></ul>
+|''(Check /datum/chemical_reaction/slimepsteroid2/on_reaction()!)''
+|-
+! Slime Duplicator
+|<ul><li>{{reagent|5|blood}}</li></ul>
+|''(Check /datum/chemical_reaction/slimedupe/on_reaction()!)''
+|-
+! Slime Camera
+|<ul><li>{{reagent|5|plasma}}</li></ul>
+|''(Check /datum/chemical_reaction/slimecamera/on_reaction()!)''
+|-
+! Slime Film
+|<ul><li>{{reagent|5|blood}}</li></ul>
+|''(Check /datum/chemical_reaction/slimefilm/on_reaction()!)''
+|-
+! Slime Paint
+|<ul><li>{{reagent|5|plasma}}</li></ul>
+|''(Check /datum/chemical_reaction/slimepaint/on_reaction()!)''
+|-
+! Slime Cash
+|<ul><li>{{reagent|5|blood}}</li></ul>
+|''(Check /datum/chemical_reaction/slimecash/on_reaction()!)''
+|-
+! Universal Enzyme
+|<ul><li>{{reagent|1|sodiumchloride}}</li><li>{{reagent|1|nutriment}}</li><li>{{reagent|1|blood}}</li></ul>
+|{{reagent|1|enzyme}}
+|-
+! Tofu
+|<ul><li>{{reagent|10|soymilk}}</li><li>{{reagent|5|enzyme}}</li></ul>
+|''(Check /datum/chemical_reaction/tofu/on_reaction()!)''
+|-
+! Chocolate Bar
+|<ul><li>{{reagent|2|soymilk}}</li><li>{{reagent|2|coco}}</li><li>{{reagent|2|sugar}}</li></ul>
+|''(Check /datum/chemical_reaction/chocolate_bar/on_reaction()!)''
+|-
+! Chocolate Bar
+|<ul><li>{{reagent|2|milk}}</li><li>{{reagent|2|coco}}</li><li>{{reagent|2|sugar}}</li></ul>
+|''(Check /datum/chemical_reaction/chocolate_bar2/on_reaction()!)''
+|-
+! Hot Coco
+|<ul><li>{{reagent|5|water}}</li><li>{{reagent|1|coco}}</li></ul>
+|{{reagent|5|hot_coco}}
+|-
+! Soy Sauce
+|<ul><li>{{reagent|4|soymilk}}</li><li>{{reagent|1|sacid}}</li></ul>
+|{{reagent|5|soysauce}}
+|-
+! Vinegar
+|<ul><li>{{reagent|5|wine}}</li><li>{{reagent|5|enzyme}}</li></ul>
+|{{reagent|5|vinegar}}
+|-
+! Sprinkles
+|<ul><li>{{reagent|5|sugar}}</li><li>{{reagent|1|enzyme}}</li></ul>
+|{{reagent|5|sprinkles}}
+|-
+! Cheesewheel
+|<ul><li>{{reagent|40|milk}}</li><li>{{reagent|5|enzyme}}</li></ul>
+|''(Check /datum/chemical_reaction/cheesewheel/on_reaction()!)''
+|-
+! Cream
+|<ul><li>{{reagent|10|milk}}</li><li>{{reagent|1|sacid}}</li></ul>
+|{{reagent|5|cream}}
+|-
+! Syntiflesh
+|<ul><li>{{reagent|5|blood}}</li><li>{{reagent|1|clonexadone}}</li></ul>
+|''(Check /datum/chemical_reaction/syntiflesh/on_reaction()!)''
+|-
+! Hot Ramen
+|<ul><li>{{reagent|1|water}}</li><li>{{reagent|3|dry_ramen}}</li></ul>
+|{{reagent|3|hot_ramen}}
+|-
+! Hell Ramen
+|<ul><li>{{reagent|1|capsaicin}}</li><li>{{reagent|6|hot_ramen}}</li></ul>
+|{{reagent|6|hell_ramen}}
+|-
+! Ice
+|<ul><li>{{reagent|10|water}}</li><li>{{reagent|5|frostoil}}</li></ul>
+|{{reagent|11|ice}}
+|-
+! Goldschlager
+|<ul><li>{{reagent|10|vodka}}</li><li>{{reagent|1|gold}}</li></ul>
+|{{reagent|10|goldschlager}}
+|-
+! Patron
+|<ul><li>{{reagent|10|tequila}}</li><li>{{reagent|1|silver}}</li></ul>
+|{{reagent|10|patron}}
+|-
+! Bilk
+|<ul><li>{{reagent|1|milk}}</li><li>{{reagent|1|beer}}</li></ul>
+|{{reagent|2|bilk}}
+|-
+! Iced Tea
+|<ul><li>{{reagent|1|ice}}</li><li>{{reagent|3|tea}}</li></ul>
+|{{reagent|4|icetea}}
+|-
+! Arnold Palmer
+|<ul><li>{{reagent|1|lemonade}}</li><li>{{reagent|1|icetea}}</li></ul>
+|{{reagent|2|arnoldpalmer}}
+|-
+! Iced Coffee
+|<ul><li>{{reagent|1|ice}}</li><li>{{reagent|3|coffee}}</li></ul>
+|{{reagent|4|icecoffee}}
+|-
+! Nuka Cola
+|<ul><li>{{reagent|1|uranium}}</li><li>{{reagent|6|cola}}</li></ul>
+|{{reagent|6|nuka_cola}}
+|-
+! Moonshine
+|<ul><li>{{reagent|10|cornoil}}</li><li>{{reagent|5|enzyme}}</li></ul>
+|{{reagent|10|moonshine}}
+|-
+! Wine
+|<ul><li>{{reagent|10|berryjuice}}</li><li>{{reagent|5|enzyme}}</li></ul>
+|{{reagent|10|wine}}
+|-
+! Sangria
+|<ul><li>{{reagent|2|wine}}</li><li>{{reagent|1|orangejuice}}</li><li>{{reagent|1|sodawater}}</li></ul>
+|{{reagent|4|sangria}}
+|-
+! Pina Colada
+|<ul><li>{{reagent|2|rum}}</li><li>{{reagent|1|ice}}</li><li>{{reagent|1|cream}}</li></ul>
+|{{reagent|4|pinacolada}}
+|-
+! Space Beer
+|<ul><li>{{reagent|10|flour}}</li><li>{{reagent|5|enzyme}}</li></ul>
+|{{reagent|10|beer}}
+|-
+! Vodka
+|<ul><li>{{reagent|10|potato}}</li><li>{{reagent|5|enzyme}}</li></ul>
+|{{reagent|10|vodka}}
+|-
+! Sake
+|<ul><li>{{reagent|10|rice}}</li><li>{{reagent|5|enzyme}}</li></ul>
+|{{reagent|10|sake}}
+|-
+! Kahlua
+|<ul><li>{{reagent|5|coffee}}</li><li>{{reagent|5|sugar}}</li><li>{{reagent|5|enzyme}}</li></ul>
+|{{reagent|5|kahlua}}
+|-
+! Gin and Tonic
+|<ul><li>{{reagent|2|gin}}</li><li>{{reagent|1|tonic}}</li></ul>
+|{{reagent|3|gintonic}}
+|-
+! Cuba Libre
+|<ul><li>{{reagent|2|rum}}</li><li>{{reagent|1|cola}}</li></ul>
+|{{reagent|3|cubalibre}}
+|-
+! Classic Martini
+|<ul><li>{{reagent|2|gin}}</li><li>{{reagent|1|vermouth}}</li></ul>
+|{{reagent|3|martini}}
+|-
+! Vodka Martini
+|<ul><li>{{reagent|2|vodka}}</li><li>{{reagent|1|vermouth}}</li></ul>
+|{{reagent|3|vodkamartini}}
+|-
+! Caipirinha
+|<ul><li>{{reagent|2|pinga}}</li><li>{{reagent|1|limejuice}}</li><li>{{reagent|1|ice}}</li></ul>
+|{{reagent|3|caipirinha}}
+|-
+! White Russian
+|<ul><li>{{reagent|3|blackrussian}}</li><li>{{reagent|2|cream}}</li></ul>
+|{{reagent|5|whiterussian}}
+|-
+! Whiskey Cola
+|<ul><li>{{reagent|2|whiskey}}</li><li>{{reagent|1|cola}}</li></ul>
+|{{reagent|3|whiskeycola}}
+|-
+! Screwdriver
+|<ul><li>{{reagent|2|vodka}}</li><li>{{reagent|1|orangejuice}}</li></ul>
+|{{reagent|3|screwdrivercocktail}}
+|-
+! Bloody Mary
+|<ul><li>{{reagent|1|vodka}}</li><li>{{reagent|2|tomatojuice}}</li><li>{{reagent|1|limejuice}}</li></ul>
+|{{reagent|4|bloodymary}}
+|-
+! Pan-Galactic Gargle Blaster
+|<ul><li>{{reagent|1|vodka}}</li><li>{{reagent|1|gin}}</li><li>{{reagent|1|whiskey}}</li><li>{{reagent|1|cognac}}</li><li>{{reagent|1|limejuice}}</li></ul>
+|{{reagent|5|gargleblaster}}
+|-
+! Brave Bull
+|<ul><li>{{reagent|2|tequila}}</li><li>{{reagent|1|kahlua}}</li></ul>
+|{{reagent|3|bravebull}}
+|-
+! Tequila Sunrise
+|<ul><li>{{reagent|2|tequila}}</li><li>{{reagent|1|orangejuice}}</li></ul>
+|{{reagent|3|tequilasunrise}}
+|-
+! Toxins Special
+|<ul><li>{{reagent|2|rum}}</li><li>{{reagent|1|vermouth}}</li><li>{{reagent|2|plasma}}</li></ul>
+|{{reagent|5|toxinsspecial}}
+|-
+! Beepksy Smash
+|<ul><li>{{reagent|2|limejuice}}</li><li>{{reagent|2|whiskey}}</li><li>{{reagent|1|iron}}</li></ul>
+|{{reagent|4|beepskysmash}}
+|-
+! The Doctor's Delight
+|<ul><li>{{reagent|1|limejuice}}</li><li>{{reagent|1|tomatojuice}}</li><li>{{reagent|1|orangejuice}}</li><li>{{reagent|1|cream}}</li><li>{{reagent|1|tricordrazine}}</li></ul>
+|{{reagent|5|doctorsdelight}}
+|-
+! Irish Cream
+|<ul><li>{{reagent|2|whiskey}}</li><li>{{reagent|1|cream}}</li></ul>
+|{{reagent|3|irishcream}}
+|-
+! The Manly Dorf
+|<ul><li>{{reagent|1|beer}}</li><li>{{reagent|2|ale}}</li></ul>
+|{{reagent|3|manlydorf}}
+|-
+! Hooch
+|<ul><li>{{reagent|1|sugar}}</li><li>{{reagent|2|ethanol}}</li><li>{{reagent|1|fuel}}</li></ul>
+|{{reagent|3|hooch}}
+|-
+! Irish Coffee
+|<ul><li>{{reagent|1|irishcream}}</li><li>{{reagent|1|coffee}}</li></ul>
+|{{reagent|2|irishcoffee}}
+|-
+! B-52
+|<ul><li>{{reagent|1|irishcarbomb}}</li><li>{{reagent|1|kahlua}}</li><li>{{reagent|1|cognac}}</li></ul>
+|{{reagent|3|b52}}
+|-
+! Atomic Bomb
+|<ul><li>{{reagent|10|b52}}</li><li>{{reagent|1|uranium}}</li></ul>
+|{{reagent|10|atomicbomb}}
+|-
+! Margarita
+|<ul><li>{{reagent|2|tequila}}</li><li>{{reagent|1|limejuice}}</li></ul>
+|{{reagent|3|margarita}}
+|-
+! Long Island Iced Tea
+|<ul><li>{{reagent|1|vodka}}</li><li>{{reagent|1|gin}}</li><li>{{reagent|1|tequila}}</li><li>{{reagent|1|cubalibre}}</li><li>{{reagent|1|ice}}</li></ul>
+|{{reagent|5|longislandicedtea}}
+|-
+! Three Mile Island Iced Tea
+|<ul><li>{{reagent|10|longislandicedtea}}</li><li>{{reagent|1|uranium}}</li></ul>
+|{{reagent|10|threemileisland}}
+|-
+! Whiskey Soda
+|<ul><li>{{reagent|2|whiskey}}</li><li>{{reagent|1|sodawater}}</li></ul>
+|{{reagent|3|whiskeysoda}}
+|-
+! Black Russian
+|<ul><li>{{reagent|3|vodka}}</li><li>{{reagent|2|kahlua}}</li></ul>
+|{{reagent|5|blackrussian}}
+|-
+! Manhattan
+|<ul><li>{{reagent|2|whiskey}}</li><li>{{reagent|1|vermouth}}</li></ul>
+|{{reagent|3|manhattan}}
+|-
+! Manhattan Project
+|<ul><li>{{reagent|10|manhattan}}</li><li>{{reagent|1|uranium}}</li></ul>
+|{{reagent|10|manhattan_proj}}
+|-
+! Vodka and Tonic
+|<ul><li>{{reagent|2|vodka}}</li><li>{{reagent|1|tonic}}</li></ul>
+|{{reagent|3|vodkatonic}}
+|-
+! Gin Fizz
+|<ul><li>{{reagent|2|gin}}</li><li>{{reagent|1|sodawater}}</li><li>{{reagent|1|limejuice}}</li></ul>
+|{{reagent|4|ginfizz}}
+|-
+! Bahama mama
+|<ul><li>{{reagent|2|rum}}</li><li>{{reagent|2|orangejuice}}</li><li>{{reagent|1|limejuice}}</li><li>{{reagent|1|ice}}</li></ul>
+|{{reagent|6|bahama_mama}}
+|-
+! Singulo
+|<ul><li>{{reagent|5|vodka}}</li><li>{{reagent|1|radium}}</li><li>{{reagent|5|wine}}</li></ul>
+|{{reagent|10|singulo}}
+|-
+! Allies Cocktail
+|<ul><li>{{reagent|1|martini}}</li><li>{{reagent|1|vodka}}</li></ul>
+|{{reagent|2|alliescocktail}}
+|-
+! Demons Blood
+|<ul><li>{{reagent|1|rum}}</li><li>{{reagent|1|spacemountainwind}}</li><li>{{reagent|1|blood}}</li><li>{{reagent|1|dr_gibb}}</li></ul>
+|{{reagent|4|demonsblood}}
+|-
+! Booger
+|<ul><li>{{reagent|1|cream}}</li><li>{{reagent|1|banana}}</li><li>{{reagent|1|rum}}</li><li>{{reagent|1|watermelonjuice}}</li></ul>
+|{{reagent|4|booger}}
+|-
+! Anti-freeze
+|<ul><li>{{reagent|2|vodka}}</li><li>{{reagent|1|cream}}</li><li>{{reagent|1|ice}}</li></ul>
+|{{reagent|4|antifreeze}}
+|-
+! Barefoot
+|<ul><li>{{reagent|1|berryjuice}}</li><li>{{reagent|1|cream}}</li><li>{{reagent|1|vermouth}}</li></ul>
+|{{reagent|3|barefoot}}
+|-
+! Sbiten
+|<ul><li>{{reagent|10|vodka}}</li><li>{{reagent|1|capsaicin}}</li></ul>
+|{{reagent|10|sbiten}}
+|-
+! Red Mead
+|<ul><li>{{reagent|1|blood}}</li><li>{{reagent|1|mead}}</li></ul>
+|{{reagent|2|red_mead}}
+|-
+! Mead
+|<ul><li>{{reagent|1|sugar}}</li><li>{{reagent|1|water}}</li><li>{{reagent|5|enzyme}}</li></ul>
+|{{reagent|2|mead}}
+|-
+! Iced Beer
+|<ul><li>{{reagent|10|beer}}</li><li>{{reagent|1|frostoil}}</li></ul>
+|{{reagent|10|iced_beer}}
+|-
+! Iced Beer
+|<ul><li>{{reagent|5|beer}}</li><li>{{reagent|1|ice}}</li></ul>
+|{{reagent|6|iced_beer}}
+|-
+! Grog
+|<ul><li>{{reagent|1|rum}}</li><li>{{reagent|1|water}}</li></ul>
+|{{reagent|2|grog}}
+|-
+! Soy Latte
+|<ul><li>{{reagent|1|espresso}}</li><li>{{reagent|1|soymilk}}</li></ul>
+|{{reagent|2|soy_latte}}
+|-
+! Latte
+|<ul><li>{{reagent|1|espresso}}</li><li>{{reagent|1|milk}}</li></ul>
+|{{reagent|2|cafe_latte}}
+|-
+! Acid Spit
+|<ul><li>{{reagent|1|sacid}}</li><li>{{reagent|5|wine}}</li></ul>
+|{{reagent|6|acidspit}}
+|-
+! Amasec
+|<ul><li>{{reagent|1|iron}}</li><li>{{reagent|5|wine}}</li><li>{{reagent|5|vodka}}</li></ul>
+|{{reagent|10|amasec}}
+|-
+! Changeling Sting
+|<ul><li>{{reagent|1|screwdrivercocktail}}</li><li>{{reagent|1|limejuice}}</li><li>{{reagent|1|lemonjuice}}</li></ul>
+|{{reagent|5|changelingsting}}
+|-
+! Aloe
+|<ul><li>{{reagent|1|cream}}</li><li>{{reagent|1|whiskey}}</li><li>{{reagent|1|watermelonjuice}}</li></ul>
+|{{reagent|2|aloe}}
+|-
+! Andalusia
+|<ul><li>{{reagent|1|rum}}</li><li>{{reagent|1|whiskey}}</li><li>{{reagent|1|lemonjuice}}</li></ul>
+|{{reagent|3|andalusia}}
+|-
+! Neurotoxin
+|<ul><li>{{reagent|1|gargleblaster}}</li><li>{{reagent|1|stoxin}}</li></ul>
+|{{reagent|2|neurotoxin}}
+|-
+! Snow White
+|<ul><li>{{reagent|1|beer}}</li><li>{{reagent|1|lemon_lime}}</li></ul>
+|{{reagent|2|snowwhite}}
+|-
+! Irish Car Bomb
+|<ul><li>{{reagent|1|ale}}</li><li>{{reagent|1|irishcream}}</li></ul>
+|{{reagent|2|irishcarbomb}}
+|-
+! Syndicate Bomb
+|<ul><li>{{reagent|1|beer}}</li><li>{{reagent|1|whiskeycola}}</li></ul>
+|{{reagent|2|syndicatebomb}}
+|-
+! Erika Surprise
+|<ul><li>{{reagent|1|ale}}</li><li>{{reagent|1|limejuice}}</li><li>{{reagent|1|whiskey}}</li><li>{{reagent|1|banana}}</li><li>{{reagent|1|ice}}</li></ul>
+|{{reagent|5|erikasurprise}}
+|-
+! Devils Kiss
+|<ul><li>{{reagent|1|blood}}</li><li>{{reagent|1|kahlua}}</li><li>{{reagent|1|rum}}</li></ul>
+|{{reagent|3|devilskiss}}
+|-
+! Hippies Delight
+|<ul><li>{{reagent|1|psilocybin}}</li><li>{{reagent|1|gargleblaster}}</li></ul>
+|{{reagent|2|hippiesdelight}}
+|-
+! Banana Honk
+|<ul><li>{{reagent|1|banana}}</li><li>{{reagent|1|cream}}</li><li>{{reagent|1|sugar}}</li></ul>
+|{{reagent|3|bananahonk}}
+|-
+! Silencer
+|<ul><li>{{reagent|1|nothing}}</li><li>{{reagent|1|cream}}</li><li>{{reagent|1|sugar}}</li></ul>
+|{{reagent|3|silencer}}
+|-
+! Driest Martini
+|<ul><li>{{reagent|1|nothing}}</li><li>{{reagent|1|gin}}</li></ul>
+|{{reagent|2|driestmartini}}
+|-
+! Lemonade
+|<ul><li>{{reagent|1|lemonjuice}}</li><li>{{reagent|1|sugar}}</li><li>{{reagent|1|water}}</li></ul>
+|{{reagent|3|lemonade}}
+|-
+! Kira Special
+|<ul><li>{{reagent|1|orangejuice}}</li><li>{{reagent|1|limejuice}}</li><li>{{reagent|1|sodawater}}</li></ul>
+|{{reagent|2|kiraspecial}}
+|-
+! Brown Star
+|<ul><li>{{reagent|1|kahlua}}</li><li>{{reagent|4|irish_cream}}</li></ul>
+|{{reagent|5|brownstar}}
+|-
+! Milkshake
+|<ul><li>{{reagent|1|cream}}</li><li>{{reagent|2|ice}}</li><li>{{reagent|2|milk}}</li></ul>
+|{{reagent|5|milkshake}}
+|-
+! Rewriter
+|<ul><li>{{reagent|1|spacemountainwind}}</li><li>{{reagent|1|coffee}}</li></ul>
+|{{reagent|2|rewriter}}
+|-
+! Earl's Grey Tea
+|<ul><li>{{reagent|1|sacid}}</li><li>{{reagent|1|tea}}</li></ul>
+|{{reagent|2|acidtea}}
+|-
+! Chifir
+|<ul><li>{{reagent|5|tea}}</li><li>{{reagent|5|redtea}}</li><li>{{reagent|5|greentea}}</li></ul>
+|{{reagent|15|chifir}}
+|-
+! Zen Tea
+|<ul><li>{{reagent|5|tea}}</li><li>{{reagent|5|nothing}}</li></ul>
+|{{reagent|10|yinyang}}
+|-
+! Singularitea
+|<ul><li>{{reagent|1|radium}}</li><li>{{reagent|5|tea}}</li><li>{{reagent|5|redtea}}</li></ul>
+|{{reagent|10|singularitea}}
+|-
+! Gyro
+|<ul><li>{{reagent|5|greentea}}</li><li>{{reagent|5|whiskey}}</li><li>{{reagent|1|iron}}</li></ul>
+|{{reagent|10|gyro}}
+|-
+! Plasma Pekoe
+|<ul><li>{{reagent|5|tea}}</li><li>{{reagent|5|plasma}}</li></ul>
+|{{reagent|10|plasmatea}}
+|-
+! Espresso
+|<ul><li>{{reagent|1|coffee}}</li><li>{{reagent|1|water}}</li></ul>
+|{{reagent|2|espresso}}
+|-
+! Cappuccino
+|<ul><li>{{reagent|1|espresso}}</li><li>{{reagent|1|cream}}</li></ul>
+|{{reagent|2|cappuccino}}
+|-
+! Tonio
+|<ul><li>{{reagent|5|coffee}}</li><li>{{reagent|1|limejuice}}</li><li>{{reagent|1|tomatojuice}}</li><li>{{reagent|1|lemonjuice}}</li><li>{{reagent|1|watermelonjuice}}</li><li>{{reagent|1|honey}}</li></ul>
+|{{reagent|10|tonio}}
+|-
+! Doppio
+|<ul><li>{{reagent|5|coffee}}</li><li>{{reagent|5|redtea}}</li><li>{{reagent|5|greentea}}</li></ul>
+|{{reagent|10|doppio}}
+|-
+! Passione
+|<ul><li>{{reagent|5|cappuccino}}</li><li>{{reagent|1|gold}}</li><li>{{reagent|5|honey}}</li></ul>
+|{{reagent|10|passione}}
+|-
+! Wake up call
+|<ul><li>{{reagent|5|coffee}}</li><li>{{reagent|1|sprinkles}}</li><li>{{reagent|5|beepskysmash}}</li></ul>
+|{{reagent|10|seccoffee}}
+|-
+! Lifeline
+|<ul><li>{{reagent|5|coffee}}</li><li>{{reagent|5|doctorsdelight}}</li><li>{{reagent|1|blood}}</li></ul>
+|{{reagent|10|medcoffee}}
+|-
+! Joe
+|<ul><li>{{reagent|5|coffee}}</li><li>{{reagent|5|whiskey}}</li></ul>
+|{{reagent|5|detcoffee}}
+|-
+! Recharger
+|<ul><li>{{reagent|1|coffee}}</li><li>{{reagent|1|iron}}</li><li>{{reagent|1|lithium}}</li><li>{{reagent|1|fuel}}</li><li>{{reagent|1|aluminum}}</li></ul>
+|{{reagent|5|etank}}
+|-
+! Tide
+|<ul><li>{{reagent|5|water}}</li><li>{{reagent|5|fuel}}</li></ul>
+|{{reagent|10|greytea}}
+|-
+! Citalopram
+|<ul><li>{{reagent|1|mindbreaker}}</li><li>{{reagent|1|carbon}}</li></ul>
+|{{reagent|3|citalopram}}
+|-
+! Paroxetine
+|<ul><li>{{reagent|1|mindbreaker}}</li><li>{{reagent|1|oxygen}}</li><li>{{reagent|1|inaprovaline}}</li></ul>
+|{{reagent|3|paroxetine}}
+|-
+! Lithium Sodium Tungstate
+|<ul><li>{{reagent|1|lithium}}</li><li>{{reagent|2|sodium}}</li><li>{{reagent|1|tungsten}}</li><li>{{reagent|4|oxygen}}</li></ul>
+|{{reagent|8|lithiumsodiumtungstate}}
+|-
+! Density separated sample
+|<ul><li>{{reagent|1|ground_rock}}</li><li>{{reagent|2|lithiumsodiumtungstate}}</li></ul>
+|{{reagent|2|density_separated_sample}}
+|-
+! Analysis sample
+|<ul><li>{{reagent|5|density_separated_sample}}</li></ul>
+|{{reagent|4|analysis_sample}}
+|}
+
+{| class="wikitable"
+|-
+! Name
+! Reactants
+! Result
+|-
+! Water Potassium Explosion
+|<ul><li>{{reagent|1|water}}</li><li>{{reagent|1|potassium}}</li></ul>
+|''(Check /datum/chemical_reaction/explosion_potassium/on_reaction()!)''
+|-
+! Creatine
+|<ul><li>{{reagent|1|nutriment}}</li><li>{{reagent|1|bicaridine}}</li><li>{{reagent|1|sugar}}</li><li>{{reagent|1|mutagen}}</li></ul>
+|{{reagent|2|creatine}}
+|-
+! Discount Dan's Special Sauce
+|<ul><li>{{reagent|1|irradiatedbeans}}</li><li>{{reagent|1|toxicwaste}}</li><li>{{reagent|1|refriedbeans}}</li><li>{{reagent|1|mutatedbeans}}</li><li>{{reagent|1|beff}}</li><li>{{reagent|1|horsemeat}}</li><li>{{reagent|1|moonrocks}}</li><li>{{reagent|1|offcolorcheese}}</li><li>{{reagent|1|bonemarrow}}</li><li>{{reagent|1|greenramen}}</li><li>{{reagent|1|glowingramen}}</li><li>{{reagent|1|deepfriedramen}}</li></ul>
+|{{reagent|12|discount}}
+|-
+! Peptobismol
+|<ul><li>{{reagent|1|anti_toxin}}</li><li>{{reagent|1|discount}}</li></ul>
+|{{reagent|2|peptobismol}}
+|-
+! EMP Pulse
+|<ul><li>{{reagent|1|uranium}}</li><li>{{reagent|1|iron}}</li></ul>
+|''(Check /datum/chemical_reaction/emp_pulse/on_reaction()!)''
+|-
+! Silicate
+|<ul><li>{{reagent|1|aluminum}}</li><li>{{reagent|1|silicon}}</li><li>{{reagent|1|oxygen}}</li></ul>
+|{{reagent|9|silicate}}
+|-
+! Phalanximine
+|<ul><li>{{reagent|1|hyronalin}}</li><li>{{reagent|1|ethanol}}</li><li>{{reagent|1|mutagen}}</li></ul>
+|{{reagent|3|phalanximine}}
+|-
+! Sleep Toxin
+|<ul><li>{{reagent|1|chloralhydrate}}</li><li>{{reagent|4|sugar}}</li></ul>
+|{{reagent|5|stoxin}}
+|-
+! Sterilizine
+|<ul><li>{{reagent|1|ethanol}}</li><li>{{reagent|1|anti_toxin}}</li><li>{{reagent|1|chlorine}}</li></ul>
+|{{reagent|3|sterilizine}}
+|-
+! Inaprovaline
+|<ul><li>{{reagent|1|oxygen}}</li><li>{{reagent|1|carbon}}</li><li>{{reagent|1|sugar}}</li></ul>
+|{{reagent|3|inaprovaline}}
+|-
+! Anti-Toxin (Dylovene)
+|<ul><li>{{reagent|1|silicon}}</li><li>{{reagent|1|potassium}}</li><li>{{reagent|1|nitrogen}}</li></ul>
+|{{reagent|3|anti_toxin}}
+|-
+! Unstable mutagen
+|<ul><li>{{reagent|1|radium}}</li><li>{{reagent|1|phosphorus}}</li><li>{{reagent|1|chlorine}}</li></ul>
+|{{reagent|3|mutagen}}
+|-
+! Tramadol
+|<ul><li>{{reagent|1|inaprovaline}}</li><li>{{reagent|1|ethanol}}</li><li>{{reagent|1|oxygen}}</li></ul>
+|{{reagent|3|tramadol}}
+|-
+! Oxycodone
+|<ul><li>{{reagent|1|ethanol}}</li><li>{{reagent|1|tramadol}}</li><li>{{reagent|1|plasma}}</li></ul>
+|{{reagent|3|oxycodone}}
+|-
+! Water
+|<ul><li>{{reagent|2|hydrogen}}</li><li>{{reagent|1|oxygen}}</li></ul>
+|{{reagent|1|water}}
+|-
+! Sulphuric Acid
+|<ul><li>{{reagent|2|sulfur}}</li><li>{{reagent|3|oxygen}}</li><li>{{reagent|2|water}}</li></ul>
+|{{reagent|2|sacid}}
+|-
+! Thermite
+|<ul><li>{{reagent|1|aluminum}}</li><li>{{reagent|1|iron}}</li><li>{{reagent|1|oxygen}}</li></ul>
+|{{reagent|3|thermite}}
+|-
+! Lexorin
+|<ul><li>{{reagent|1|plasma}}</li><li>{{reagent|1|hydrogen}}</li><li>{{reagent|1|nitrogen}}</li></ul>
+|{{reagent|3|lexorin}}
+|-
+! Space Drugs
+|<ul><li>{{reagent|1|mercury}}</li><li>{{reagent|1|sugar}}</li><li>{{reagent|1|lithium}}</li></ul>
+|{{reagent|3|space_drugs}}
+|-
+! Space Lube
+|<ul><li>{{reagent|1|water}}</li><li>{{reagent|1|silicon}}</li><li>{{reagent|1|oxygen}}</li></ul>
+|{{reagent|4|lube}}
+|-
+! Polytrinic acid
+|<ul><li>{{reagent|1|sacid}}</li><li>{{reagent|1|chlorine}}</li><li>{{reagent|1|potassium}}</li></ul>
+|{{reagent|3|pacid}}
+|-
+! Synaptizine
+|<ul><li>{{reagent|1|sugar}}</li><li>{{reagent|1|lithium}}</li><li>{{reagent|1|water}}</li></ul>
+|{{reagent|3|synaptizine}}
+|-
+! Hyronalin
+|<ul><li>{{reagent|1|radium}}</li><li>{{reagent|1|anti_toxin}}</li></ul>
+|{{reagent|2|hyronalin}}
+|-
+! Arithrazine
+|<ul><li>{{reagent|1|hyronalin}}</li><li>{{reagent|1|hydrogen}}</li></ul>
+|{{reagent|2|arithrazine}}
+|-
+! Impedrezene
+|<ul><li>{{reagent|1|mercury}}</li><li>{{reagent|1|oxygen}}</li><li>{{reagent|1|sugar}}</li></ul>
+|{{reagent|2|impedrezene}}
+|-
+! Kelotane
+|<ul><li>{{reagent|1|silicon}}</li><li>{{reagent|1|carbon}}</li></ul>
+|{{reagent|2|kelotane}}
+|-
+! Virus Food
+|<ul><li>{{reagent|5|water}}</li><li>{{reagent|5|milk}}</li></ul>
+|{{reagent|15|virusfood}}
+|-
+! Leporazine
+|<ul><li>{{reagent|1|silicon}}</li><li>{{reagent|1|copper}}</li><li>{{reagent|5|plasma}}</li></ul>
+|{{reagent|2|leporazine}}
+|-
+! Cryptobiolin
+|<ul><li>{{reagent|1|potassium}}</li><li>{{reagent|1|oxygen}}</li><li>{{reagent|1|sugar}}</li></ul>
+|{{reagent|3|cryptobiolin}}
+|-
+! Tricordrazine
+|<ul><li>{{reagent|1|inaprovaline}}</li><li>{{reagent|1|anti_toxin}}</li></ul>
+|{{reagent|2|tricordrazine}}
+|-
+! Alkysine
+|<ul><li>{{reagent|1|chlorine}}</li><li>{{reagent|1|nitrogen}}</li><li>{{reagent|1|anti_toxin}}</li></ul>
+|{{reagent|2|alkysine}}
+|-
+! Dexalin
+|<ul><li>{{reagent|2|oxygen}}</li><li>{{reagent|5|plasma}}</li></ul>
+|{{reagent|1|dexalin}}
+|-
+! Dermaline
+|<ul><li>{{reagent|1|oxygen}}</li><li>{{reagent|1|phosphorus}}</li><li>{{reagent|1|kelotane}}</li></ul>
+|{{reagent|3|dermaline}}
+|-
+! Dexalin Plus
+|<ul><li>{{reagent|1|dexalin}}</li><li>{{reagent|1|carbon}}</li><li>{{reagent|1|iron}}</li></ul>
+|{{reagent|3|dexalinp}}
+|-
+! Bicaridine
+|<ul><li>{{reagent|1|inaprovaline}}</li><li>{{reagent|1|carbon}}</li></ul>
+|{{reagent|2|bicaridine}}
+|-
+! Hyperzine
+|<ul><li>{{reagent|1|sugar}}</li><li>{{reagent|1|phosphorus}}</li><li>{{reagent|1|sulfur}}</li></ul>
+|{{reagent|3|hyperzine}}
+|-
+! Ryetalyn
+|<ul><li>{{reagent|1|arithrazine}}</li><li>{{reagent|1|carbon}}</li></ul>
+|{{reagent|2|ryetalyn}}
+|-
+! Cryoxadone
+|<ul><li>{{reagent|1|dexalin}}</li><li>{{reagent|1|water}}</li><li>{{reagent|1|oxygen}}</li></ul>
+|{{reagent|3|cryoxadone}}
+|-
+! Clonexadone
+|<ul><li>{{reagent|1|cryoxadone}}</li><li>{{reagent|1|sodium}}</li><li>{{reagent|5|plasma}}</li></ul>
+|{{reagent|2|clonexadone}}
+|-
+! Spaceacillin
+|<ul><li>{{reagent|1|cryptobiolin}}</li><li>{{reagent|1|inaprovaline}}</li></ul>
+|{{reagent|2|spaceacillin}}
+|-
+! imidazoline
+|<ul><li>{{reagent|1|carbon}}</li><li>{{reagent|1|hydrogen}}</li><li>{{reagent|1|anti_toxin}}</li></ul>
+|{{reagent|2|imidazoline}}
+|-
+! inacusiate
+|<ul><li>{{reagent|1|water}}</li><li>{{reagent|1|carbon}}</li><li>{{reagent|1|anti_toxin}}</li></ul>
+|{{reagent|3|inacusiate}}
+|-
+! Ethylredoxrazine
+|<ul><li>{{reagent|1|oxygen}}</li><li>{{reagent|1|anti_toxin}}</li><li>{{reagent|1|carbon}}</li></ul>
+|{{reagent|3|ethylredoxrazine}}
+|-
+! ethanoloxidation
+|<ul><li>{{reagent|1|ethylredoxrazine}}</li><li>{{reagent|1|ethanol}}</li></ul>
+|{{reagent|2|water}}
+|-
+! Glycerol
+|<ul><li>{{reagent|3|cornoil}}</li><li>{{reagent|1|sacid}}</li></ul>
+|{{reagent|1|glycerol}}
+|-
+! Nitroglycerin Explosion
+|<ul><li>{{reagent|1|glycerol}}</li><li>{{reagent|1|pacid}}</li><li>{{reagent|1|sacid}}</li></ul>
+|{{reagent|2|nitroglycerin}}
+|-
+! Sodium Chloride
+|<ul><li>{{reagent|1|sodium}}</li><li>{{reagent|1|chlorine}}</li></ul>
+|{{reagent|2|sodiumchloride}}
+|-
+! Flash powder
+|<ul><li>{{reagent|1|aluminum}}</li><li>{{reagent|1|potassium}}</li><li>{{reagent|1|sulfur}}</li></ul>
+|''(Check /datum/chemical_reaction/flash_powder/on_reaction()!)''
+|-
+! Napalm
+|<ul><li>{{reagent|1|aluminum}}</li><li>{{reagent|1|plasma}}</li><li>{{reagent|1|sacid}}</li></ul>
+|''(Check /datum/chemical_reaction/napalm/on_reaction()!)''
+|-
+! Chemsmoke
+|<ul><li>{{reagent|1|potassium}}</li><li>{{reagent|1|sugar}}</li><li>{{reagent|1|phosphorus}}</li></ul>
+|''(Check /datum/chemical_reaction/chemsmoke/on_reaction()!)''
+|-
+! Chloral Hydrate
+|<ul><li>{{reagent|1|ethanol}}</li><li>{{reagent|3|chlorine}}</li><li>{{reagent|1|water}}</li></ul>
+|{{reagent|1|chloralhydrate}}
+|-
+! Zombie Powder
+|<ul><li>{{reagent|5|carpotoxin}}</li><li>{{reagent|5|stoxin}}</li><li>{{reagent|5|copper}}</li></ul>
+|{{reagent|2|zombiepowder}}
+|-
+! Rezadone
+|<ul><li>{{reagent|1|carpotoxin}}</li><li>{{reagent|1|cryptobiolin}}</li><li>{{reagent|1|copper}}</li></ul>
+|{{reagent|3|rezadone}}
+|-
+! Mindbreaker Toxin
+|<ul><li>{{reagent|1|silicon}}</li><li>{{reagent|1|hydrogen}}</li><li>{{reagent|1|anti_toxin}}</li></ul>
+|{{reagent|5|mindbreaker}}
+|-
+! Lipozine
+|<ul><li>{{reagent|1|sodiumchloride}}</li><li>{{reagent|1|ethanol}}</li><li>{{reagent|1|radium}}</li></ul>
+|{{reagent|3|lipozine}}
+|-
+! Carp pheromones
+|<ul><li>{{reagent|1|carpotoxin}}</li><li>{{reagent|1|leporazine}}</li><li>{{reagent|1|carbon}}</li></ul>
+|{{reagent|3|carppheromones}}
+|-
+! Vaporize Oxygen
+|<ul><li>{{reagent|1|vaporsalt}}</li><li>{{reagent|1|oxygen}}</li></ul>
+|''(Check /datum/chemical_reaction/vaporize/oxygen/on_reaction()!)''
+|-
+! Vaporize Nitrogen
+|<ul><li>{{reagent|1|vaporsalt}}</li><li>{{reagent|1|nitrogen}}</li></ul>
+|''(Check /datum/chemical_reaction/vaporize/nitrogen/on_reaction()!)''
+|-
+! Vaporize Plasma
+|<ul><li>{{reagent|1|vaporsalt}}</li><li>{{reagent|1|plasma}}</li></ul>
+|''(Check /datum/chemical_reaction/vaporize/plasma/on_reaction()!)''
+|-
+! Vaporize
+|<ul></ul>
+|''(Check /datum/chemical_reaction/vaporize/on_reaction()!)''
+|-
+! Solid Plasma
+|<ul><li>{{reagent|10|silicate}}</li><li>{{reagent|10|frostoil}}</li><li>{{reagent|20|plasma}}</li></ul>
+|''(Check /datum/chemical_reaction/solidification/plasma/on_reaction()!)''
+|-
+! Solid Metal
+|<ul><li>{{reagent|10|silicate}}</li><li>{{reagent|10|frostoil}}</li><li>{{reagent|20|iron}}</li></ul>
+|''(Check /datum/chemical_reaction/solidification/iron/on_reaction()!)''
+|-
+! Solid Silver
+|<ul><li>{{reagent|10|silicate}}</li><li>{{reagent|10|frostoil}}</li><li>{{reagent|20|silver}}</li></ul>
+|''(Check /datum/chemical_reaction/solidification/silver/on_reaction()!)''
+|-
+! Solid Gold
+|<ul><li>{{reagent|10|silicate}}</li><li>{{reagent|10|frostoil}}</li><li>{{reagent|20|gold}}</li></ul>
+|''(Check /datum/chemical_reaction/solidification/gold/on_reaction()!)''
+|-
+! Solid Uranium
+|<ul><li>{{reagent|10|silicate}}</li><li>{{reagent|10|frostoil}}</li><li>{{reagent|20|uranium}}</li></ul>
+|''(Check /datum/chemical_reaction/solidification/uranium/on_reaction()!)''
+|-
+! Solid Plasteel
+|<ul><li>{{reagent|10|silicate}}</li><li>{{reagent|5|frostoil}}</li><li>{{reagent|5|capsaicin}}</li><li>{{reagent|10|plasma}}</li><li>{{reagent|10|iron}}</li></ul>
+|''(Check /datum/chemical_reaction/solidification/plasteel/on_reaction()!)''
+|-
+! Plastic
+|<ul><li>{{reagent|10|pacid}}</li><li>{{reagent|20|plasticide}}</li></ul>
+|''(Check /datum/chemical_reaction/solidification/plastic/on_reaction()!)''
+|-
+! Metal solidification
+|<ul><li>{{reagent|10|silicate}}</li><li>{{reagent|10|frostoil}}</li><li>{{reagent|20|iron}}</li></ul>
+|''(Check /datum/chemical_reaction/solidification/on_reaction()!)''
+|-
+! Condensed Capsaicin
+|<ul><li>{{reagent|1|capsaicin}}</li><li>{{reagent|5|ethanol}}</li></ul>
+|{{reagent|5|condensedcapsaicin}}
+|-
+! Methylin
+|<ul><li>{{reagent|1|hydrogen}}</li><li>{{reagent|1|chlorine}}</li><li>{{reagent|1|ethanol}}</li><li>{{reagent|5|fluorine}}</li></ul>
+|{{reagent|1|methylin}}
+|-
+! Explosion
+|<ul><li>{{reagent|1|bicarodyne}}</li><li>{{reagent|1|paracetamol}}</li></ul>
+|''(Check /datum/chemical_reaction/explosion_bicarodyne/on_reaction()!)''
+|-
+! Nanobots
+|<ul><li>{{reagent|1|nanites}}</li><li>{{reagent|10|uranium}}</li><li>{{reagent|10|gold}}</li><li>{{reagent|10|nutriment}}</li><li>{{reagent|10|silicon}}</li></ul>
+|{{reagent|2|nanobots}}
+|-
+! Nanobots2
+|<ul><li>{{reagent|1|mednanobots}}</li><li>{{reagent|2|cryoxadone}}</li></ul>
+|{{reagent|1|nanobots}}
+|-
+! Medical Nanobots
+|<ul><li>{{reagent|1|nanobots}}</li><li>{{reagent|5|doctorsdelight}}</li></ul>
+|{{reagent|1|mednanobots}}
+|-
+! Combat Nanobots
+|<ul><li>{{reagent|1|nanobots}}</li><li>{{reagent|5|mutagen}}</li><li>{{reagent|5|silicate}}</li><li>{{reagent|10|iron}}</li></ul>
+|{{reagent|1|comnanobots}}
+|-
+! Foam surfactant
+|<ul><li>{{reagent|2|fluorine}}</li><li>{{reagent|2|carbon}}</li><li>{{reagent|1|sacid}}</li></ul>
+|{{reagent|5|fluorosurfactant}}
+|-
+! Foam
+|<ul><li>{{reagent|1|fluorosurfactant}}</li><li>{{reagent|1|water}}</li></ul>
+|''(Check /datum/chemical_reaction/foam/on_reaction()!)''
+|-
+! Metal Foam
+|<ul><li>{{reagent|3|aluminum}}</li><li>{{reagent|1|foaming_agent}}</li><li>{{reagent|1|pacid}}</li></ul>
+|''(Check /datum/chemical_reaction/metalfoam/on_reaction()!)''
+|-
+! Iron Foam
+|<ul><li>{{reagent|3|iron}}</li><li>{{reagent|1|foaming_agent}}</li><li>{{reagent|1|pacid}}</li></ul>
+|''(Check /datum/chemical_reaction/ironfoam/on_reaction()!)''
+|-
+! Foaming Agent
+|<ul><li>{{reagent|1|lithium}}</li><li>{{reagent|1|hydrogen}}</li></ul>
+|{{reagent|1|foaming_agent}}
+|-
+! Ammonia
+|<ul><li>{{reagent|3|hydrogen}}</li><li>{{reagent|1|nitrogen}}</li></ul>
+|{{reagent|3|ammonia}}
+|-
+! Diethylamine
+|<ul><li>{{reagent|1|ammonia}}</li><li>{{reagent|1|ethanol}}</li></ul>
+|{{reagent|2|diethylamine}}
+|-
+! Space cleaner
+|<ul><li>{{reagent|1|ammonia}}</li><li>{{reagent|1|water}}</li></ul>
+|{{reagent|2|cleaner}}
+|-
+! Plant-B-Gone
+|<ul><li>{{reagent|1|toxin}}</li><li>{{reagent|4|water}}</li></ul>
+|{{reagent|5|plantbgone}}
+|-
+! Shapeshift
+|<ul><li>{{reagent|5|blood}}</li></ul>
+|''(Check /datum/chemical_reaction/mimicshift/on_reaction()!)''
+|-
+! Slime Spawn
+|<ul><li>{{reagent|5|plasma}}</li></ul>
+|''(Check /datum/chemical_reaction/slimespawn/on_reaction()!)''
+|-
+! Slime Monkey
+|<ul><li>{{reagent|5|blood}}</li></ul>
+|''(Check /datum/chemical_reaction/slimemonkey/on_reaction()!)''
+|-
+! Mutation Toxin
+|<ul><li>{{reagent|5|plasma}}</li></ul>
+|{{reagent|1|mutationtoxin}}
+|-
+! Slime Peridaxon
+|<ul><li>{{reagent|5|water}}</li></ul>
+|''(Check /datum/chemical_reaction/slimeperidaxon/on_reaction()!)''
+|-
+! Slime Dexalin Plus
+|<ul><li>{{reagent|5|oxygen}}</li></ul>
+|''(Check /datum/chemical_reaction/slimedexplus/on_reaction()!)''
+|-
+! Slime Doctor's Delight
+|<ul><li>{{reagent|5|sugar}}</li></ul>
+|''(Check /datum/chemical_reaction/slimesdelight/on_reaction()!)''
+|-
+! Slime Bicaridine
+|<ul><li>{{reagent|5|carbon}}</li></ul>
+|''(Check /datum/chemical_reaction/slimebicard/on_reaction()!)''
+|-
+! Slime Dermaline
+|<ul><li>{{reagent|5|phosphorus}}</li></ul>
+|''(Check /datum/chemical_reaction/slimedermaline/on_reaction()!)''
+|-
+! Slime Metal
+|<ul><li>{{reagent|5|plasma}}</li></ul>
+|''(Check /datum/chemical_reaction/slimemetal/on_reaction()!)''
+|-
+! Slime Gold
+|<ul><li>{{reagent|5|copper}}</li></ul>
+|''(Check /datum/chemical_reaction/slimegold/on_reaction()!)''
+|-
+! Slime Silver
+|<ul><li>{{reagent|5|tungsten}}</li></ul>
+|''(Check /datum/chemical_reaction/slimesilver/on_reaction()!)''
+|-
+! Slime Uranium
+|<ul><li>{{reagent|5|radium}}</li></ul>
+|''(Check /datum/chemical_reaction/slimeuranium/on_reaction()!)''
+|-
+! Slime diamond
+|<ul><li>{{reagent|5|carbon}}</li></ul>
+|''(Check /datum/chemical_reaction/slimediamond/on_reaction()!)''
+|-
+! Slime Crit (Summon Monsters)
+|<ul><li>{{reagent|5|plasma}}</li></ul>
+|''(Check /datum/chemical_reaction/slimecrit/on_reaction()!)''
+|-
+! Slime Crit Lesser (Summon Monsters)
+|<ul><li>{{reagent|5|blood}}</li></ul>
+|''(Check /datum/chemical_reaction/slimecritlesser/on_reaction()!)''
+|-
+! Slime Animation
+|<ul><li>{{reagent|5|water}}</li></ul>
+|''(Check /datum/chemical_reaction/slimecritweak/on_reaction()!)''
+|-
+! Slime Bork
+|<ul><li>{{reagent|5|plasma}}</li></ul>
+|''(Check /datum/chemical_reaction/slimebork/on_reaction()!)''
+|-
+! Slime Drinks
+|<ul><li>{{reagent|5|water}}</li></ul>
+|''(Check /datum/chemical_reaction/slimedrinks/on_reaction()!)''
+|-
+! Slime Materials
+|<ul><li>{{reagent|5|carbon}}</li></ul>
+|''(Check /datum/chemical_reaction/slimematerials/on_reaction()!)''
+|-
+! Slime Frost Oil
+|<ul><li>{{reagent|5|plasma}}</li></ul>
+|{{reagent|10|frostoil}}
+|-
+! Slime Freeze
+|<ul><li>{{reagent|5|plasma}}</li></ul>
+|''(Check /datum/chemical_reaction/slimefreeze/on_reaction()!)''
+|-
+! Slime Nutrient
+|<ul><li>{{reagent|5|blood}}</li></ul>
+|''(Check /datum/chemical_reaction/slimenutrient/on_reaction()!)''
+|-
+! Slime Capsaicin Oil
+|<ul><li>{{reagent|5|blood}}</li></ul>
+|{{reagent|10|capsaicin}}
+|-
+! Slime Napalm
+|<ul><li>{{reagent|5|plasma}}</li></ul>
+|''(Check /datum/chemical_reaction/slimefire/on_reaction()!)''
+|-
+! Slime EMP
+|<ul><li>{{reagent|5|blood}}</li></ul>
+|''(Check /datum/chemical_reaction/slimeoverload/on_reaction()!)''
+|-
+! Slime Powercell
+|<ul><li>{{reagent|5|plasma}}</li></ul>
+|''(Check /datum/chemical_reaction/slimecell/on_reaction()!)''
+|-
+! Slime Glow
+|<ul><li>{{reagent|5|water}}</li></ul>
+|''(Check /datum/chemical_reaction/slimeglow/on_reaction()!)''
+|-
+! Slime Steroid
+|<ul><li>{{reagent|5|plasma}}</li></ul>
+|''(Check /datum/chemical_reaction/slimepsteroid/on_reaction()!)''
+|-
+! Slime Jam
+|<ul><li>{{reagent|5|sugar}}</li></ul>
+|{{reagent|10|slimejelly}}
+|-
+! Slime Plasma
+|<ul><li>{{reagent|5|plasma}}</li></ul>
+|''(Check /datum/chemical_reaction/slimeplasma/on_reaction()!)''
+|-
+! Slime Glycerol
+|<ul><li>{{reagent|5|plasma}}</li></ul>
+|{{reagent|8|glycerol}}
+|-
+! Slime Res
+|<ul><li>{{reagent|5|sugar}}</li></ul>
+|''(Check /datum/chemical_reaction/slimeres/on_reaction()!)''
+|-
+! Bloodlust
+|<ul><li>{{reagent|5|blood}}</li></ul>
+|''(Check /datum/chemical_reaction/slimebloodlust/on_reaction()!)''
+|-
+! Slime Potion
+|<ul><li>{{reagent|5|plasma}}</li></ul>
+|''(Check /datum/chemical_reaction/slimeppotion/on_reaction()!)''
+|-
+! Advanced Mutation Toxin
+|<ul><li>{{reagent|5|plasma}}</li></ul>
+|{{reagent|1|amutationtoxin}}
+|-
+! Slime Medical Nanobots
+|<ul><li>{{reagent|5|gold}}</li></ul>
+|{{reagent|1|mednanobots}}
+|-
+! Slime Combat Nanobots
+|<ul><li>{{reagent|5|uranium}}</li></ul>
+|{{reagent|1|comnanobots}}
+|-
+! Slime Explosion
+|<ul><li>{{reagent|5|plasma}}</li></ul>
+|''(Check /datum/chemical_reaction/slimeexplosion/on_reaction()!)''
+|-
+! Slime Genocide
+|<ul><li>{{reagent|5|blood}}</li></ul>
+|''(Check /datum/chemical_reaction/slimegenocide/on_reaction()!)''
+|-
+! Slime Potion 2
+|<ul><li>{{reagent|5|plasma}}</li></ul>
+|''(Check /datum/chemical_reaction/slimepotion2/on_reaction()!)''
+|-
+! Slime Paralyzer
+|<ul><li>{{reagent|5|blood}}</li></ul>
+|''(Check /datum/chemical_reaction/slimeparalyze/on_reaction()!)''
+|-
+! Slime Golem
+|<ul><li>{{reagent|5|plasma}}</li></ul>
+|''(Check /datum/chemical_reaction/slimegolem/on_reaction()!)''
+|-
+! Slime Diamond2
+|<ul><li>{{reagent|5|carbon}}</li></ul>
+|''(Check /datum/chemical_reaction/slimediamond2/on_reaction()!)''
+|-
+! Slime Phazon
+|<ul><li>{{reagent|5|gold}}</li></ul>
+|''(Check /datum/chemical_reaction/slimephazon/on_reaction()!)''
+|-
+! Slime Clown
+|<ul><li>{{reagent|5|silver}}</li></ul>
+|''(Check /datum/chemical_reaction/slimeclown/on_reaction()!)''
+|-
+! Slime Teleport
+|<ul><li>{{reagent|5|plasma}}</li></ul>
+|''(Check /datum/chemical_reaction/slimeteleport/on_reaction()!)''
+|-
+! Slime Crystal
+|<ul><li>{{reagent|5|blood}}</li></ul>
+|''(Check /datum/chemical_reaction/slimecrystal/on_reaction()!)''
+|-
+! Slime Steroid 2
+|<ul><li>{{reagent|5|plasma}}</li></ul>
+|''(Check /datum/chemical_reaction/slimepsteroid2/on_reaction()!)''
+|-
+! Slime Duplicator
+|<ul><li>{{reagent|5|blood}}</li></ul>
+|''(Check /datum/chemical_reaction/slimedupe/on_reaction()!)''
+|-
+! Slime Camera
+|<ul><li>{{reagent|5|plasma}}</li></ul>
+|''(Check /datum/chemical_reaction/slimecamera/on_reaction()!)''
+|-
+! Slime Film
+|<ul><li>{{reagent|5|blood}}</li></ul>
+|''(Check /datum/chemical_reaction/slimefilm/on_reaction()!)''
+|-
+! Slime Paint
+|<ul><li>{{reagent|5|plasma}}</li></ul>
+|''(Check /datum/chemical_reaction/slimepaint/on_reaction()!)''
+|-
+! Slime Cash
+|<ul><li>{{reagent|5|blood}}</li></ul>
+|''(Check /datum/chemical_reaction/slimecash/on_reaction()!)''
+|-
+! Universal Enzyme
+|<ul><li>{{reagent|1|sodiumchloride}}</li><li>{{reagent|1|nutriment}}</li><li>{{reagent|1|blood}}</li></ul>
+|{{reagent|1|enzyme}}
+|-
+! Tofu
+|<ul><li>{{reagent|10|soymilk}}</li><li>{{reagent|5|enzyme}}</li></ul>
+|''(Check /datum/chemical_reaction/tofu/on_reaction()!)''
+|-
+! Chocolate Bar
+|<ul><li>{{reagent|2|soymilk}}</li><li>{{reagent|2|coco}}</li><li>{{reagent|2|sugar}}</li></ul>
+|''(Check /datum/chemical_reaction/chocolate_bar/on_reaction()!)''
+|-
+! Chocolate Bar
+|<ul><li>{{reagent|2|milk}}</li><li>{{reagent|2|coco}}</li><li>{{reagent|2|sugar}}</li></ul>
+|''(Check /datum/chemical_reaction/chocolate_bar2/on_reaction()!)''
+|-
+! Hot Coco
+|<ul><li>{{reagent|5|water}}</li><li>{{reagent|1|coco}}</li></ul>
+|{{reagent|5|hot_coco}}
+|-
+! Soy Sauce
+|<ul><li>{{reagent|4|soymilk}}</li><li>{{reagent|1|sacid}}</li></ul>
+|{{reagent|5|soysauce}}
+|-
+! Vinegar
+|<ul><li>{{reagent|5|wine}}</li><li>{{reagent|5|enzyme}}</li></ul>
+|{{reagent|5|vinegar}}
+|-
+! Sprinkles
+|<ul><li>{{reagent|5|sugar}}</li><li>{{reagent|1|enzyme}}</li></ul>
+|{{reagent|5|sprinkles}}
+|-
+! Cheesewheel
+|<ul><li>{{reagent|40|milk}}</li><li>{{reagent|5|enzyme}}</li></ul>
+|''(Check /datum/chemical_reaction/cheesewheel/on_reaction()!)''
+|-
+! Cream
+|<ul><li>{{reagent|10|milk}}</li><li>{{reagent|1|sacid}}</li></ul>
+|{{reagent|5|cream}}
+|-
+! Syntiflesh
+|<ul><li>{{reagent|5|blood}}</li><li>{{reagent|1|clonexadone}}</li></ul>
+|''(Check /datum/chemical_reaction/syntiflesh/on_reaction()!)''
+|-
+! Hot Ramen
+|<ul><li>{{reagent|1|water}}</li><li>{{reagent|3|dry_ramen}}</li></ul>
+|{{reagent|3|hot_ramen}}
+|-
+! Hell Ramen
+|<ul><li>{{reagent|1|capsaicin}}</li><li>{{reagent|6|hot_ramen}}</li></ul>
+|{{reagent|6|hell_ramen}}
+|-
+! Ice
+|<ul><li>{{reagent|10|water}}</li><li>{{reagent|5|frostoil}}</li></ul>
+|{{reagent|11|ice}}
+|-
+! Goldschlager
+|<ul><li>{{reagent|10|vodka}}</li><li>{{reagent|1|gold}}</li></ul>
+|{{reagent|10|goldschlager}}
+|-
+! Patron
+|<ul><li>{{reagent|10|tequila}}</li><li>{{reagent|1|silver}}</li></ul>
+|{{reagent|10|patron}}
+|-
+! Bilk
+|<ul><li>{{reagent|1|milk}}</li><li>{{reagent|1|beer}}</li></ul>
+|{{reagent|2|bilk}}
+|-
+! Iced Tea
+|<ul><li>{{reagent|1|ice}}</li><li>{{reagent|3|tea}}</li></ul>
+|{{reagent|4|icetea}}
+|-
+! Arnold Palmer
+|<ul><li>{{reagent|1|lemonade}}</li><li>{{reagent|1|icetea}}</li></ul>
+|{{reagent|2|arnoldpalmer}}
+|-
+! Iced Coffee
+|<ul><li>{{reagent|1|ice}}</li><li>{{reagent|3|coffee}}</li></ul>
+|{{reagent|4|icecoffee}}
+|-
+! Nuka Cola
+|<ul><li>{{reagent|1|uranium}}</li><li>{{reagent|6|cola}}</li></ul>
+|{{reagent|6|nuka_cola}}
+|-
+! Moonshine
+|<ul><li>{{reagent|10|cornoil}}</li><li>{{reagent|5|enzyme}}</li></ul>
+|{{reagent|10|moonshine}}
+|-
+! Wine
+|<ul><li>{{reagent|10|berryjuice}}</li><li>{{reagent|5|enzyme}}</li></ul>
+|{{reagent|10|wine}}
+|-
+! Sangria
+|<ul><li>{{reagent|2|wine}}</li><li>{{reagent|1|orangejuice}}</li><li>{{reagent|1|sodawater}}</li></ul>
+|{{reagent|4|sangria}}
+|-
+! Pina Colada
+|<ul><li>{{reagent|2|rum}}</li><li>{{reagent|1|ice}}</li><li>{{reagent|1|cream}}</li></ul>
+|{{reagent|4|pinacolada}}
+|-
+! Space Beer
+|<ul><li>{{reagent|10|flour}}</li><li>{{reagent|5|enzyme}}</li></ul>
+|{{reagent|10|beer}}
+|-
+! Vodka
+|<ul><li>{{reagent|10|potato}}</li><li>{{reagent|5|enzyme}}</li></ul>
+|{{reagent|10|vodka}}
+|-
+! Sake
+|<ul><li>{{reagent|10|rice}}</li><li>{{reagent|5|enzyme}}</li></ul>
+|{{reagent|10|sake}}
+|-
+! Kahlua
+|<ul><li>{{reagent|5|coffee}}</li><li>{{reagent|5|sugar}}</li><li>{{reagent|5|enzyme}}</li></ul>
+|{{reagent|5|kahlua}}
+|-
+! Gin and Tonic
+|<ul><li>{{reagent|2|gin}}</li><li>{{reagent|1|tonic}}</li></ul>
+|{{reagent|3|gintonic}}
+|-
+! Cuba Libre
+|<ul><li>{{reagent|2|rum}}</li><li>{{reagent|1|cola}}</li></ul>
+|{{reagent|3|cubalibre}}
+|-
+! Classic Martini
+|<ul><li>{{reagent|2|gin}}</li><li>{{reagent|1|vermouth}}</li></ul>
+|{{reagent|3|martini}}
+|-
+! Vodka Martini
+|<ul><li>{{reagent|2|vodka}}</li><li>{{reagent|1|vermouth}}</li></ul>
+|{{reagent|3|vodkamartini}}
+|-
+! Caipirinha
+|<ul><li>{{reagent|2|pinga}}</li><li>{{reagent|1|limejuice}}</li><li>{{reagent|1|ice}}</li></ul>
+|{{reagent|3|caipirinha}}
+|-
+! White Russian
+|<ul><li>{{reagent|3|blackrussian}}</li><li>{{reagent|2|cream}}</li></ul>
+|{{reagent|5|whiterussian}}
+|-
+! Whiskey Cola
+|<ul><li>{{reagent|2|whiskey}}</li><li>{{reagent|1|cola}}</li></ul>
+|{{reagent|3|whiskeycola}}
+|-
+! Screwdriver
+|<ul><li>{{reagent|2|vodka}}</li><li>{{reagent|1|orangejuice}}</li></ul>
+|{{reagent|3|screwdrivercocktail}}
+|-
+! Bloody Mary
+|<ul><li>{{reagent|1|vodka}}</li><li>{{reagent|2|tomatojuice}}</li><li>{{reagent|1|limejuice}}</li></ul>
+|{{reagent|4|bloodymary}}
+|-
+! Pan-Galactic Gargle Blaster
+|<ul><li>{{reagent|1|vodka}}</li><li>{{reagent|1|gin}}</li><li>{{reagent|1|whiskey}}</li><li>{{reagent|1|cognac}}</li><li>{{reagent|1|limejuice}}</li></ul>
+|{{reagent|5|gargleblaster}}
+|-
+! Brave Bull
+|<ul><li>{{reagent|2|tequila}}</li><li>{{reagent|1|kahlua}}</li></ul>
+|{{reagent|3|bravebull}}
+|-
+! Tequila Sunrise
+|<ul><li>{{reagent|2|tequila}}</li><li>{{reagent|1|orangejuice}}</li></ul>
+|{{reagent|3|tequilasunrise}}
+|-
+! Toxins Special
+|<ul><li>{{reagent|2|rum}}</li><li>{{reagent|1|vermouth}}</li><li>{{reagent|2|plasma}}</li></ul>
+|{{reagent|5|toxinsspecial}}
+|-
+! Beepksy Smash
+|<ul><li>{{reagent|2|limejuice}}</li><li>{{reagent|2|whiskey}}</li><li>{{reagent|1|iron}}</li></ul>
+|{{reagent|4|beepskysmash}}
+|-
+! The Doctor's Delight
+|<ul><li>{{reagent|1|limejuice}}</li><li>{{reagent|1|tomatojuice}}</li><li>{{reagent|1|orangejuice}}</li><li>{{reagent|1|cream}}</li><li>{{reagent|1|tricordrazine}}</li></ul>
+|{{reagent|5|doctorsdelight}}
+|-
+! Irish Cream
+|<ul><li>{{reagent|2|whiskey}}</li><li>{{reagent|1|cream}}</li></ul>
+|{{reagent|3|irishcream}}
+|-
+! The Manly Dorf
+|<ul><li>{{reagent|1|beer}}</li><li>{{reagent|2|ale}}</li></ul>
+|{{reagent|3|manlydorf}}
+|-
+! Hooch
+|<ul><li>{{reagent|1|sugar}}</li><li>{{reagent|2|ethanol}}</li><li>{{reagent|1|fuel}}</li></ul>
+|{{reagent|3|hooch}}
+|-
+! Irish Coffee
+|<ul><li>{{reagent|1|irishcream}}</li><li>{{reagent|1|coffee}}</li></ul>
+|{{reagent|2|irishcoffee}}
+|-
+! B-52
+|<ul><li>{{reagent|1|irishcarbomb}}</li><li>{{reagent|1|kahlua}}</li><li>{{reagent|1|cognac}}</li></ul>
+|{{reagent|3|b52}}
+|-
+! Atomic Bomb
+|<ul><li>{{reagent|10|b52}}</li><li>{{reagent|1|uranium}}</li></ul>
+|{{reagent|10|atomicbomb}}
+|-
+! Margarita
+|<ul><li>{{reagent|2|tequila}}</li><li>{{reagent|1|limejuice}}</li></ul>
+|{{reagent|3|margarita}}
+|-
+! Long Island Iced Tea
+|<ul><li>{{reagent|1|vodka}}</li><li>{{reagent|1|gin}}</li><li>{{reagent|1|tequila}}</li><li>{{reagent|1|cubalibre}}</li><li>{{reagent|1|ice}}</li></ul>
+|{{reagent|5|longislandicedtea}}
+|-
+! Three Mile Island Iced Tea
+|<ul><li>{{reagent|10|longislandicedtea}}</li><li>{{reagent|1|uranium}}</li></ul>
+|{{reagent|10|threemileisland}}
+|-
+! Whiskey Soda
+|<ul><li>{{reagent|2|whiskey}}</li><li>{{reagent|1|sodawater}}</li></ul>
+|{{reagent|3|whiskeysoda}}
+|-
+! Black Russian
+|<ul><li>{{reagent|3|vodka}}</li><li>{{reagent|2|kahlua}}</li></ul>
+|{{reagent|5|blackrussian}}
+|-
+! Manhattan
+|<ul><li>{{reagent|2|whiskey}}</li><li>{{reagent|1|vermouth}}</li></ul>
+|{{reagent|3|manhattan}}
+|-
+! Manhattan Project
+|<ul><li>{{reagent|10|manhattan}}</li><li>{{reagent|1|uranium}}</li></ul>
+|{{reagent|10|manhattan_proj}}
+|-
+! Vodka and Tonic
+|<ul><li>{{reagent|2|vodka}}</li><li>{{reagent|1|tonic}}</li></ul>
+|{{reagent|3|vodkatonic}}
+|-
+! Gin Fizz
+|<ul><li>{{reagent|2|gin}}</li><li>{{reagent|1|sodawater}}</li><li>{{reagent|1|limejuice}}</li></ul>
+|{{reagent|4|ginfizz}}
+|-
+! Bahama mama
+|<ul><li>{{reagent|2|rum}}</li><li>{{reagent|2|orangejuice}}</li><li>{{reagent|1|limejuice}}</li><li>{{reagent|1|ice}}</li></ul>
+|{{reagent|6|bahama_mama}}
+|-
+! Singulo
+|<ul><li>{{reagent|5|vodka}}</li><li>{{reagent|1|radium}}</li><li>{{reagent|5|wine}}</li></ul>
+|{{reagent|10|singulo}}
+|-
+! Allies Cocktail
+|<ul><li>{{reagent|1|martini}}</li><li>{{reagent|1|vodka}}</li></ul>
+|{{reagent|2|alliescocktail}}
+|-
+! Demons Blood
+|<ul><li>{{reagent|1|rum}}</li><li>{{reagent|1|spacemountainwind}}</li><li>{{reagent|1|blood}}</li><li>{{reagent|1|dr_gibb}}</li></ul>
+|{{reagent|4|demonsblood}}
+|-
+! Booger
+|<ul><li>{{reagent|1|cream}}</li><li>{{reagent|1|banana}}</li><li>{{reagent|1|rum}}</li><li>{{reagent|1|watermelonjuice}}</li></ul>
+|{{reagent|4|booger}}
+|-
+! Anti-freeze
+|<ul><li>{{reagent|2|vodka}}</li><li>{{reagent|1|cream}}</li><li>{{reagent|1|ice}}</li></ul>
+|{{reagent|4|antifreeze}}
+|-
+! Barefoot
+|<ul><li>{{reagent|1|berryjuice}}</li><li>{{reagent|1|cream}}</li><li>{{reagent|1|vermouth}}</li></ul>
+|{{reagent|3|barefoot}}
+|-
+! Sbiten
+|<ul><li>{{reagent|10|vodka}}</li><li>{{reagent|1|capsaicin}}</li></ul>
+|{{reagent|10|sbiten}}
+|-
+! Red Mead
+|<ul><li>{{reagent|1|blood}}</li><li>{{reagent|1|mead}}</li></ul>
+|{{reagent|2|red_mead}}
+|-
+! Mead
+|<ul><li>{{reagent|1|sugar}}</li><li>{{reagent|1|water}}</li><li>{{reagent|5|enzyme}}</li></ul>
+|{{reagent|2|mead}}
+|-
+! Iced Beer
+|<ul><li>{{reagent|10|beer}}</li><li>{{reagent|1|frostoil}}</li></ul>
+|{{reagent|10|iced_beer}}
+|-
+! Iced Beer
+|<ul><li>{{reagent|5|beer}}</li><li>{{reagent|1|ice}}</li></ul>
+|{{reagent|6|iced_beer}}
+|-
+! Grog
+|<ul><li>{{reagent|1|rum}}</li><li>{{reagent|1|water}}</li></ul>
+|{{reagent|2|grog}}
+|-
+! Soy Latte
+|<ul><li>{{reagent|1|espresso}}</li><li>{{reagent|1|soymilk}}</li></ul>
+|{{reagent|2|soy_latte}}
+|-
+! Latte
+|<ul><li>{{reagent|1|espresso}}</li><li>{{reagent|1|milk}}</li></ul>
+|{{reagent|2|cafe_latte}}
+|-
+! Acid Spit
+|<ul><li>{{reagent|1|sacid}}</li><li>{{reagent|5|wine}}</li></ul>
+|{{reagent|6|acidspit}}
+|-
+! Amasec
+|<ul><li>{{reagent|1|iron}}</li><li>{{reagent|5|wine}}</li><li>{{reagent|5|vodka}}</li></ul>
+|{{reagent|10|amasec}}
+|-
+! Changeling Sting
+|<ul><li>{{reagent|1|screwdrivercocktail}}</li><li>{{reagent|1|limejuice}}</li><li>{{reagent|1|lemonjuice}}</li></ul>
+|{{reagent|5|changelingsting}}
+|-
+! Aloe
+|<ul><li>{{reagent|1|cream}}</li><li>{{reagent|1|whiskey}}</li><li>{{reagent|1|watermelonjuice}}</li></ul>
+|{{reagent|2|aloe}}
+|-
+! Andalusia
+|<ul><li>{{reagent|1|rum}}</li><li>{{reagent|1|whiskey}}</li><li>{{reagent|1|lemonjuice}}</li></ul>
+|{{reagent|3|andalusia}}
+|-
+! Neurotoxin
+|<ul><li>{{reagent|1|gargleblaster}}</li><li>{{reagent|1|stoxin}}</li></ul>
+|{{reagent|2|neurotoxin}}
+|-
+! Snow White
+|<ul><li>{{reagent|1|beer}}</li><li>{{reagent|1|lemon_lime}}</li></ul>
+|{{reagent|2|snowwhite}}
+|-
+! Irish Car Bomb
+|<ul><li>{{reagent|1|ale}}</li><li>{{reagent|1|irishcream}}</li></ul>
+|{{reagent|2|irishcarbomb}}
+|-
+! Syndicate Bomb
+|<ul><li>{{reagent|1|beer}}</li><li>{{reagent|1|whiskeycola}}</li></ul>
+|{{reagent|2|syndicatebomb}}
+|-
+! Erika Surprise
+|<ul><li>{{reagent|1|ale}}</li><li>{{reagent|1|limejuice}}</li><li>{{reagent|1|whiskey}}</li><li>{{reagent|1|banana}}</li><li>{{reagent|1|ice}}</li></ul>
+|{{reagent|5|erikasurprise}}
+|-
+! Devils Kiss
+|<ul><li>{{reagent|1|blood}}</li><li>{{reagent|1|kahlua}}</li><li>{{reagent|1|rum}}</li></ul>
+|{{reagent|3|devilskiss}}
+|-
+! Hippies Delight
+|<ul><li>{{reagent|1|psilocybin}}</li><li>{{reagent|1|gargleblaster}}</li></ul>
+|{{reagent|2|hippiesdelight}}
+|-
+! Banana Honk
+|<ul><li>{{reagent|1|banana}}</li><li>{{reagent|1|cream}}</li><li>{{reagent|1|sugar}}</li></ul>
+|{{reagent|3|bananahonk}}
+|-
+! Silencer
+|<ul><li>{{reagent|1|nothing}}</li><li>{{reagent|1|cream}}</li><li>{{reagent|1|sugar}}</li></ul>
+|{{reagent|3|silencer}}
+|-
+! Driest Martini
+|<ul><li>{{reagent|1|nothing}}</li><li>{{reagent|1|gin}}</li></ul>
+|{{reagent|2|driestmartini}}
+|-
+! Lemonade
+|<ul><li>{{reagent|1|lemonjuice}}</li><li>{{reagent|1|sugar}}</li><li>{{reagent|1|water}}</li></ul>
+|{{reagent|3|lemonade}}
+|-
+! Kira Special
+|<ul><li>{{reagent|1|orangejuice}}</li><li>{{reagent|1|limejuice}}</li><li>{{reagent|1|sodawater}}</li></ul>
+|{{reagent|2|kiraspecial}}
+|-
+! Brown Star
+|<ul><li>{{reagent|1|kahlua}}</li><li>{{reagent|4|irish_cream}}</li></ul>
+|{{reagent|5|brownstar}}
+|-
+! Milkshake
+|<ul><li>{{reagent|1|cream}}</li><li>{{reagent|2|ice}}</li><li>{{reagent|2|milk}}</li></ul>
+|{{reagent|5|milkshake}}
+|-
+! Rewriter
+|<ul><li>{{reagent|1|spacemountainwind}}</li><li>{{reagent|1|coffee}}</li></ul>
+|{{reagent|2|rewriter}}
+|-
+! Earl's Grey Tea
+|<ul><li>{{reagent|1|sacid}}</li><li>{{reagent|1|tea}}</li></ul>
+|{{reagent|2|acidtea}}
+|-
+! Chifir
+|<ul><li>{{reagent|5|tea}}</li><li>{{reagent|5|redtea}}</li><li>{{reagent|5|greentea}}</li></ul>
+|{{reagent|15|chifir}}
+|-
+! Zen Tea
+|<ul><li>{{reagent|5|tea}}</li><li>{{reagent|5|nothing}}</li></ul>
+|{{reagent|10|yinyang}}
+|-
+! Singularitea
+|<ul><li>{{reagent|1|radium}}</li><li>{{reagent|5|tea}}</li><li>{{reagent|5|redtea}}</li></ul>
+|{{reagent|10|singularitea}}
+|-
+! Gyro
+|<ul><li>{{reagent|5|greentea}}</li><li>{{reagent|5|whiskey}}</li><li>{{reagent|1|iron}}</li></ul>
+|{{reagent|10|gyro}}
+|-
+! Plasma Pekoe
+|<ul><li>{{reagent|5|tea}}</li><li>{{reagent|5|plasma}}</li></ul>
+|{{reagent|10|plasmatea}}
+|-
+! Espresso
+|<ul><li>{{reagent|1|coffee}}</li><li>{{reagent|1|water}}</li></ul>
+|{{reagent|2|espresso}}
+|-
+! Cappuccino
+|<ul><li>{{reagent|1|espresso}}</li><li>{{reagent|1|cream}}</li></ul>
+|{{reagent|2|cappuccino}}
+|-
+! Tonio
+|<ul><li>{{reagent|5|coffee}}</li><li>{{reagent|1|limejuice}}</li><li>{{reagent|1|tomatojuice}}</li><li>{{reagent|1|lemonjuice}}</li><li>{{reagent|1|watermelonjuice}}</li><li>{{reagent|1|honey}}</li></ul>
+|{{reagent|10|tonio}}
+|-
+! Doppio
+|<ul><li>{{reagent|5|coffee}}</li><li>{{reagent|5|redtea}}</li><li>{{reagent|5|greentea}}</li></ul>
+|{{reagent|10|doppio}}
+|-
+! Passione
+|<ul><li>{{reagent|5|cappuccino}}</li><li>{{reagent|1|gold}}</li><li>{{reagent|5|honey}}</li></ul>
+|{{reagent|10|passione}}
+|-
+! Wake up call
+|<ul><li>{{reagent|5|coffee}}</li><li>{{reagent|1|sprinkles}}</li><li>{{reagent|5|beepskysmash}}</li></ul>
+|{{reagent|10|seccoffee}}
+|-
+! Lifeline
+|<ul><li>{{reagent|5|coffee}}</li><li>{{reagent|5|doctorsdelight}}</li><li>{{reagent|1|blood}}</li></ul>
+|{{reagent|10|medcoffee}}
+|-
+! Joe
+|<ul><li>{{reagent|5|coffee}}</li><li>{{reagent|5|whiskey}}</li></ul>
+|{{reagent|5|detcoffee}}
+|-
+! Recharger
+|<ul><li>{{reagent|1|coffee}}</li><li>{{reagent|1|iron}}</li><li>{{reagent|1|lithium}}</li><li>{{reagent|1|fuel}}</li><li>{{reagent|1|aluminum}}</li></ul>
+|{{reagent|5|etank}}
+|-
+! Tide
+|<ul><li>{{reagent|5|water}}</li><li>{{reagent|5|fuel}}</li></ul>
+|{{reagent|10|greytea}}
+|-
+! Citalopram
+|<ul><li>{{reagent|1|mindbreaker}}</li><li>{{reagent|1|carbon}}</li></ul>
+|{{reagent|3|citalopram}}
+|-
+! Paroxetine
+|<ul><li>{{reagent|1|mindbreaker}}</li><li>{{reagent|1|oxygen}}</li><li>{{reagent|1|inaprovaline}}</li></ul>
+|{{reagent|3|paroxetine}}
+|-
+! Lithium Sodium Tungstate
+|<ul><li>{{reagent|1|lithium}}</li><li>{{reagent|2|sodium}}</li><li>{{reagent|1|tungsten}}</li><li>{{reagent|4|oxygen}}</li></ul>
+|{{reagent|8|lithiumsodiumtungstate}}
+|-
+! Density separated sample
+|<ul><li>{{reagent|1|ground_rock}}</li><li>{{reagent|2|lithiumsodiumtungstate}}</li></ul>
+|{{reagent|2|density_separated_sample}}
+|-
+! Analysis sample
+|<ul><li>{{reagent|5|density_separated_sample}}</li></ul>
+|{{reagent|4|analysis_sample}}
+|}
